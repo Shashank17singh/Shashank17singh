@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-<img src="https://api.iconify.design/lucide:zap.svg?color=%23F59E0B" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=F59E0B&center=true&vCenter=true&width=180&height=30&lines=Tech+Stack&repeat=false" style="vertical-align:middle"/>
+<img src="https://img.shields.io/static/v1?label=&message=Tech+Stack&color=1a1a2e&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIlMjNGNTlFMEIiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwb2x5Z29uIHBvaW50cz0iMTMgMiAzIDE0IDEyIDE0IDExIDIyIDIxIDEwIDEyIDEwIDEzIDIiLz48L3N2Zz4K" alt="Tech Stack"/>
 </p>
 
 <div align="center">
@@ -67,7 +67,7 @@
 <br/>
 
 <p align="center">
-<img src="https://api.iconify.design/lucide:folder-code.svg?color=%2322D3EE" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=22D3EE&center=true&vCenter=true&width=290&height=30&lines=Featured+Projects&repeat=false" style="vertical-align:middle"/>
+<img src="https://img.shields.io/static/v1?label=&message=Featured+Projects&color=1a1a2e&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIlMjMyMkQzRUUiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxwYXRoIGQ9Ik00IDRoNmwyIDJoOGEyIDIgMCAwIDEgMiAydjEwYTIgMiAwIDAgMS0yIDJINGEyIDIgMCAwIDEtMi0yVjZhMiAyIDAgMCAxIDItMnoiLz48L3N2Zz4K" alt="Featured Projects"/>
 </p>
 
 <table align="center" width="100%">
@@ -136,7 +136,7 @@ Ongoing problem-solving across competitive platforms
 <br/>
 
 <p align="center">
-<img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2310B981" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=10B981&center=true&vCenter=true&width=220&height=30&lines=GitHub+Stats&repeat=false" style="vertical-align:middle"/>
+<img src="https://img.shields.io/static/v1?label=&message=GitHub+Stats&color=1a1a2e&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIlMjMxMEI5ODEiIHN0cm9rZS13aWR0aD0iMi41IiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPjxsaW5lIHgxPSIxMiIgeTE9IjIwIiB4Mj0iMTIiIHkyPSIxMCIvPjxsaW5lIHgxPSIxOCIgeTE9IjIwIiB4Mj0iMTgiIHkyPSI0Ii8+PGxpbmUgeDE9IjYiIHkxPSIyMCIgeDI9IjYiIHkyPSIxNiIvPjwvc3ZnPgo=" alt="GitHub Stats"/>
 </p>
 
 <div align="center">
