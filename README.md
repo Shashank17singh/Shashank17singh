@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/shashank17singh"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="30" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shashank17singh"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="30" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://x.com/Shashank_017"><img src="https://cdn.simpleicons.org/x/ffffff" width="30" height="30" alt="X"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/shashank.17singh"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" alt="Instagram"/></a>&nbsp;&nbsp;
 <a href="mailto:shashanksingh1709@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="30" height="30" alt="Gmail"/></a>&nbsp;&nbsp;
@@ -123,12 +123,12 @@ Ongoing problem-solving across competitive platforms
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shashank17singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=6a11cb&text_color=c9d1d9" width="48%" alt="stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shashank17singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" width="38%" alt="top langs"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Shashank17singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=6a11cb&text_color=c9d1d9" width="48%" alt="stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shashank17singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" width="38%" alt="top langs"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shashank17singh&theme=tokyonight&hide_border=true&background=0d1117&ring=6a11cb&fire=A855F7&currStreakLabel=A855F7" width="60%" alt="streak"/>
+<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shashank17singh&theme=tokyonight&hide_border=true" width="60%" alt="streak"/>
 
 </div>
 
