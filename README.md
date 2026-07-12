@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/shashank17singh"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="32" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shashank17singh"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="32" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://x.com/Shashank_017"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/shashank.17singh"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"/></a>&nbsp;&nbsp;
 <a href="mailto:shashanksingh1709@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="32" height="32" alt="Gmail"/></a>&nbsp;&nbsp;
@@ -28,7 +28,7 @@
 <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python"/>&nbsp;
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"/>&nbsp;
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"/>&nbsp;
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="42" height="42" alt="CSS3"/>&nbsp;
+<img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white" width="42" height="42" alt="CSS3"/>&nbsp;
 <img src="https://cdn.simpleicons.org/flask/000000" width="42" height="42" alt="Flask"/>&nbsp;
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42" alt="FastAPI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/nginx/009639" width="42" height="42" alt="Nginx"/>&nbsp;
@@ -39,10 +39,9 @@
 <img src="https://cdn.simpleicons.org/pandas/150458" width="42" height="42" alt="Pandas"/>&nbsp;
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="42" height="42" alt="scikit-learn"/>&nbsp;
 <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="42" height="42" alt="SciPy"/>&nbsp;
-<img src="https://cdn.simpleicons.org/plotly/3F4F75" width="42" height="42" alt="Matplotlib"/>&nbsp;
 <img src="https://cdn.simpleicons.org/jupyter/F37626" width="42" height="42" alt="Jupyter"/>&nbsp;
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" height="42" alt="Postman"/>&nbsp;
-<img src="https://cdn.simpleicons.org/canva/00C4CC" width="42" height="42" alt="Canva"/>
+<img src="https://img.shields.io/badge/-00C4CC?style=flat-square&logo=canva&logoColor=white" width="42" height="42" alt="Canva"/>
 
 </div>
 
