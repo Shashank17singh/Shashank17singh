@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:2575fc&height=200&section=header&text=Shashank%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=42&animation=fadeIn&desc=AI%20Engineer%20%7C%20GenAI%20%26%20Computer%20Vision&descAlignY=62&descSize=18&descColor=e0d9ff" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:2575fc&height=200&section=header&text=Shashank%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+Vector+Search;Training+Computer+Vision+Models;Engineering+AI+Systems+from+Scratch" alt="typing"/>
 
@@ -88,9 +88,9 @@ ML pipeline that classifies celebrity faces from images, with a trained model an
 <td width="50%" valign="top">
 
 #### 🏠 [Bangalore Home Prices](https://github.com/Shashank17singh/Bangalore_Home_Prices)
-Data cleaning, feature engineering, and price prediction model for Bangalore real estate
+Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client
 
-<img src="https://skillicons.dev/icons?i=python" height="28" alt="tech"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=python,flask,nginx" height="28" alt="tech"/>&nbsp;
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28" alt="scikit-learn"/>
 
 </td>
@@ -99,9 +99,10 @@ Data cleaning, feature engineering, and price prediction model for Bangalore rea
 <td width="50%" valign="top">
 
 #### 🏡 [NIELIT House Price Predictor](https://github.com/Shashank17singh/NIELIT-Project)
-Regression-based house price prediction project built during NIELIT training
+Regression-based house price predictor with a Tkinter desktop GUI, built during NIELIT training
 
-<img src="https://skillicons.dev/icons?i=python" height="28" alt="tech"/>
+<img src="https://skillicons.dev/icons?i=python" height="28" alt="tech"/>&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28" alt="scikit-learn"/>
 
 </td>
 <td width="50%" valign="top">
