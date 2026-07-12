@@ -22,10 +22,10 @@
 
 <br/>
 
-<h3 align="center">
-<img src="https://api.iconify.design/lucide:zap.svg?color=%23A855F7" width="24" height="24" style="vertical-align:middle"/>&nbsp;
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&width=200&lines=Tech+Stack&repeat=false" style="vertical-align:middle"/>
-</h3>
+<table align="center" border="0" cellspacing="0" cellpadding="0"><tr>
+<td valign="middle"><img src="https://api.iconify.design/lucide:zap.svg?color=%23F59E0B" width="28" height="28"/></td>
+<td valign="middle">&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=F59E0B&center=true&vCenter=true&width=210&height=40&lines=Tech+Stack&repeat=false"/></td>
+</tr></table>
 
 <div align="center">
 
@@ -67,10 +67,10 @@
 
 <br/>
 
-<h3 align="center">
-<img src="https://api.iconify.design/lucide:folder-code.svg?color=%23A855F7" width="24" height="24" style="vertical-align:middle"/>&nbsp;
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&width=320&lines=Featured+Projects&repeat=false" style="vertical-align:middle"/>
-</h3>
+<table align="center" border="0" cellspacing="0" cellpadding="0"><tr>
+<td valign="middle"><img src="https://api.iconify.design/lucide:folder-code.svg?color=%2322D3EE" width="28" height="28"/></td>
+<td valign="middle">&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=22D3EE&center=true&vCenter=true&width=330&height=40&lines=Featured+Projects&repeat=false"/></td>
+</tr></table>
 
 <table align="center" width="100%">
 <tr>
@@ -137,10 +137,10 @@ Ongoing problem-solving across competitive platforms
 
 <br/>
 
-<h3 align="center">
-<img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23A855F7" width="24" height="24" style="vertical-align:middle"/>&nbsp;
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&width=240&lines=GitHub+Stats&repeat=false" style="vertical-align:middle"/>
-</h3>
+<table align="center" border="0" cellspacing="0" cellpadding="0"><tr>
+<td valign="middle"><img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2310B981" width="28" height="28"/></td>
+<td valign="middle">&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=10B981&center=true&vCenter=true&width=250&height=40&lines=GitHub+Stats&repeat=false"/></td>
+</tr></table>
 
 <div align="center">
 
@@ -155,10 +155,10 @@ Ongoing problem-solving across competitive platforms
 
 <br/>
 
-<h3 align="center">
-<img src="https://api.iconify.design/lucide:activity.svg?color=%23A855F7" width="24" height="24" style="vertical-align:middle"/>&nbsp;
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&width=320&lines=Contribution+Graph&repeat=false" style="vertical-align:middle"/>
-</h3>
+<table align="center" border="0" cellspacing="0" cellpadding="0"><tr>
+<td valign="middle"><img src="https://api.iconify.design/lucide:activity.svg?color=%23F43F5E" width="28" height="28"/></td>
+<td valign="middle">&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=30&duration=1&pause=100000&color=F43F5E&center=true&vCenter=true&width=330&height=40&lines=Contribution+Graph&repeat=false"/></td>
+</tr></table>
 
 <div align="center">
 
