@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=110&text=Shashank%20Singh&fontSize=30&fontColor=A855F7&fontAlignY=32&fontFamily=Trebuchet%20MS&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=140&text=Shashank%20Singh&fontSize=34&fontColor=A855F7&fontAlignY=35&fontFamily=Trebuchet%20MS&animation=fadeIn" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+Vector+Search;Training+Computer+Vision+Models;Engineering+AI+Systems" alt="typing"/>
 
@@ -23,24 +23,24 @@
 <br/>
 
 <p align="center">
-<img src="https://api.iconify.design/lucide:zap.svg?color=%23F59E0B" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=F59E0B&vCenter=true&width=180&height=30&lines=Tech+Stack&repeat=false" style="vertical-align:middle"/>
+<img src="https://api.iconify.design/lucide:zap.svg?color=%23F59E0B" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=F59E0B&center=true&vCenter=true&width=180&height=30&lines=Tech+Stack&repeat=false" style="vertical-align:middle"/>
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=F59E0B&vCenter=true&width=220&height=26&lines=Languages+%26+Core&repeat=false"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=F59E0B&center=true&vCenter=true&width=220&height=26&lines=Languages+%26+Core&repeat=false"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css" alt="languages"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=22D3EE&vCenter=true&width=200&height=26&lines=Backend+%26+ML&repeat=false"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=22D3EE&center=true&vCenter=true&width=200&height=26&lines=Backend+%26+ML&repeat=false"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,nginx,opencv,mysql" alt="backend"/>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=10B981&vCenter=true&width=200&height=26&lines=Data+%26+Tooling&repeat=false"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=10B981&center=true&vCenter=true&width=200&height=26&lines=Data+%26+Tooling&repeat=false"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=py,postman" alt="tooling"/>&nbsp;
 <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy"/>&nbsp;
@@ -51,7 +51,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=F43F5E&vCenter=true&width=320&height=26&lines=AI+%2F+LLM+%26+Web+Tooling&repeat=false"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=F43F5E&center=true&vCenter=true&width=320&height=26&lines=AI+%2F+LLM+%26+Web+Tooling&repeat=false"/>
 <br/>
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/>&nbsp;
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="HuggingFace"/>&nbsp;
@@ -67,7 +67,7 @@
 <br/>
 
 <p align="center">
-<img src="https://api.iconify.design/lucide:folder-code.svg?color=%2322D3EE" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=22D3EE&vCenter=true&width=290&height=30&lines=Featured+Projects&repeat=false" style="vertical-align:middle"/>
+<img src="https://api.iconify.design/lucide:folder-code.svg?color=%2322D3EE" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=22D3EE&center=true&vCenter=true&width=290&height=30&lines=Featured+Projects&repeat=false" style="vertical-align:middle"/>
 </p>
 
 <table align="center" width="100%">
@@ -136,7 +136,7 @@ Ongoing problem-solving across competitive platforms
 <br/>
 
 <p align="center">
-<img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2310B981" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=10B981&vCenter=true&width=220&height=30&lines=GitHub+Stats&repeat=false" style="vertical-align:middle"/>
+<img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%2310B981" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=10B981&center=true&vCenter=true&width=220&height=30&lines=GitHub+Stats&repeat=false" style="vertical-align:middle"/>
 </p>
 
 <div align="center">
@@ -153,7 +153,7 @@ Ongoing problem-solving across competitive platforms
 <br/>
 
 <p align="center">
-<img src="https://api.iconify.design/lucide:activity.svg?color=%23F43F5E" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=F43F5E&vCenter=true&width=290&height=30&lines=Contribution+Graph&repeat=false" style="vertical-align:middle"/>
+<img src="https://api.iconify.design/lucide:activity.svg?color=%23F43F5E" width="30" height="30" style="vertical-align:middle"/>&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=700&size=28&duration=1&pause=100000&color=F43F5E&center=true&vCenter=true&width=290&height=30&lines=Contribution+Graph&repeat=false" style="vertical-align:middle"/>
 </p>
 
 <div align="center">
