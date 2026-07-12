@@ -57,26 +57,10 @@
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="HuggingFace"/>&nbsp;
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40" alt="Streamlit"/>&nbsp;
 <img src="https://cdn.simpleicons.org/jquery/0769AD" width="40" height="40" alt="jQuery"/>&nbsp;
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" height="28" alt="Groq"/>&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/groq.svg" width="40" height="40" alt="Groq"/>&nbsp;
+<img src="https://cdn.simpleicons.org/ollama/000000" width="40" height="40" alt="Ollama"/>&nbsp;
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" height="28" alt="ChromaDB"/>&nbsp;
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" height="28" alt="Ollama"/>&nbsp;
 <img src="https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logoColor=white" height="28" alt="Tkinter"/>
-
-</div>
-
-<br/>
-
-<h3 align="center">🧩 Project-Specific Tech</h3>
-
-<div align="center">
-
-| Project | Tech Used |
-|---|---|
-| **VectorDB (Your-Own-AI)** | C++ · HTML · HNSW · KD-Tree · Ollama · cpp-httplib |
-| **PDF Chatbot with History** | Python · LangChain · Groq (Gemma2-9b-it) · ChromaDB · HuggingFace Embeddings · Streamlit |
-| **Celebrity Face Recognition** | Python · OpenCV · Wavelet Transform · Flask |
-| **Bangalore Home Prices** | Python · Flask · Nginx · scikit-learn · Pandas · jQuery · HTML/CSS/JS · Tkinter (desktop client) |
-| **NIELIT House Price Predictor** | Python · Tkinter · scikit-learn |
 
 </div>
 
