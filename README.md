@@ -2,11 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,50:6a11cb,100:2575fc&height=170&section=header&text=Shashank%20Singh&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=19&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=520&lines=Backend+Developer;Computer+Vision+%26+ML+Enthusiast;Turning+ideas+into+working+code" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&size=19&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=520&lines=AI+Engineer;GenAI+%26+RAG+Systems;Computer+Vision+Enthusiast" alt="typing"/>
 
 <br/>
 
-<a href="https://linkedin.com/in/shashank17singh"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=linkedin&logoColor=white" width="32" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shashank17singh"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="32" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://x.com/Shashank_017"><img src="https://cdn.simpleicons.org/x/000000" width="32" height="32" alt="X"/></a>&nbsp;&nbsp;
 <a href="https://instagram.com/shashank.17singh"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"/></a>&nbsp;&nbsp;
 <a href="mailto:shashanksingh1709@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="32" height="32" alt="Gmail"/></a>&nbsp;&nbsp;
@@ -28,7 +28,7 @@
 <img src="https://cdn.simpleicons.org/python/3776AB" width="42" height="42" alt="Python"/>&nbsp;
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="42" height="42" alt="JavaScript"/>&nbsp;
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="42" height="42" alt="HTML5"/>&nbsp;
-<img src="https://img.shields.io/badge/-1572B6?style=flat-square&logo=css3&logoColor=white" width="42" height="42" alt="CSS3"/>&nbsp;
+<img src="https://api.iconify.design/simple-icons:css3.svg?color=%231572B6" width="42" height="42" alt="CSS3"/>&nbsp;
 <img src="https://cdn.simpleicons.org/flask/000000" width="42" height="42" alt="Flask"/>&nbsp;
 <img src="https://cdn.simpleicons.org/fastapi/009688" width="42" height="42" alt="FastAPI"/>&nbsp;
 <img src="https://cdn.simpleicons.org/nginx/009639" width="42" height="42" alt="Nginx"/>&nbsp;
@@ -41,7 +41,7 @@
 <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="42" height="42" alt="SciPy"/>&nbsp;
 <img src="https://cdn.simpleicons.org/jupyter/F37626" width="42" height="42" alt="Jupyter"/>&nbsp;
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="42" height="42" alt="Postman"/>&nbsp;
-<img src="https://img.shields.io/badge/-00C4CC?style=flat-square&logo=canva&logoColor=white" width="42" height="42" alt="Canva"/>
+<img src="https://api.iconify.design/simple-icons:canva.svg?color=%2300C4CC" width="42" height="42" alt="Canva"/>
 
 </div>
 
@@ -49,45 +49,62 @@
 
 <h3 align="center">📌 Featured Projects</h3>
 
-<div align="center">
+<table align="center" width="100%">
+<tr>
+<td width="50%" valign="top">
 
-**[Your-Own-AI](https://github.com/Shashank17singh/Your-Own-AI)** &nbsp;·&nbsp; Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
+🔷 **[Your-Own-AI](https://github.com/Shashank17singh/Your-Own-AI)**
+Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
 <br/>
-<img src="https://cdn.simpleicons.org/cplusplus/00599C" width="26" height="26" alt="C++"/>&nbsp;<img src="https://cdn.simpleicons.org/html5/E34F26" width="26" height="26" alt="HTML5"/>
+`C++` `HTML`
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
-**[PDF Chatbot with History](https://github.com/Shashank17singh/Chatbot_with_PDF_upload_and_History)** &nbsp;·&nbsp; Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
+🟢 **[PDF Chatbot with History](https://github.com/Shashank17singh/Chatbot_with_PDF_upload_and_History)**
+Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
 <br/>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="26" height="26" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="26" height="26" alt="Streamlit"/>&nbsp;<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="26" height="26" alt="LangChain"/>
+`Python` `LangChain` `Streamlit`
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**[Celebrity Face Recognition](https://github.com/Shashank17singh/CelebrityFaceRecognition)** &nbsp;·&nbsp; ML pipeline that classifies celebrity faces from images, with a trained model and web UI
+🎭 **[Celebrity Face Recognition](https://github.com/Shashank17singh/CelebrityFaceRecognition)**
+ML pipeline that classifies celebrity faces from images, with a trained model and web UI
 <br/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="26" height="26" alt="Jupyter"/>&nbsp;<img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="26" height="26" alt="OpenCV"/>
+`Python` `OpenCV`
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
-**[Bangalore Home Prices](https://github.com/Shashank17singh/Bangalore_Home_Prices)** &nbsp;·&nbsp; Data cleaning, feature engineering, and price prediction model for Bangalore real estate
+🏠 **[Bangalore Home Prices](https://github.com/Shashank17singh/Bangalore_Home_Prices)**
+Data cleaning, feature engineering, and price prediction model for Bangalore real estate
 <br/>
-<img src="https://cdn.simpleicons.org/jupyter/F37626" width="26" height="26" alt="Jupyter"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="26" height="26" alt="scikit-learn"/>
+`Python` `scikit-learn`
 
-<br/><br/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**[NIELIT House Price Predictor](https://github.com/Shashank17singh/NIELIT-Project)** &nbsp;·&nbsp; Regression-based house price prediction project built during NIELIT training
+🏡 **[NIELIT House Price Predictor](https://github.com/Shashank17singh/NIELIT-Project)**
+Regression-based house price prediction project built during NIELIT training
 <br/>
-<img src="https://cdn.simpleicons.org/python/3776AB" width="26" height="26" alt="Python"/>
+`Python`
 
-<br/><br/>
+</td>
+<td width="50%" valign="top">
 
-**DSA Practice** &nbsp;·&nbsp; Ongoing problem-solving across competitive platforms
+🧩 **DSA Practice**
+Ongoing problem-solving across competitive platforms
 <br/>
-<a href="https://github.com/Shashank17singh/LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" alt="LeetCode"/></a>&nbsp;
-<a href="https://github.com/Shashank17singh/Codeforces"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="28" height="28" alt="Codeforces"/></a>&nbsp;
-<a href="https://github.com/Shashank17singh/GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="28" height="28" alt="GeeksforGeeks"/></a>
+[`LeetCode`](https://github.com/Shashank17singh/LeetCode) [`Codeforces`](https://github.com/Shashank17singh/Codeforces) [`GeeksforGeeks`](https://github.com/Shashank17singh/GeeksforGeeks)
 
-</div>
+</td>
+</tr>
+</table>
 
 <br/>
 
