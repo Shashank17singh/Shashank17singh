@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=150&text=Shashank%20Singh&fontSize=44&fontColor=A855F7&fontAlignY=50&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=110&text=Shashank%20Singh&fontSize=34&fontColor=A855F7&fontAlignY=52&fontFamily=Poppins&animation=fadeIn" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+Vector+Search;Training+Computer+Vision+Models;Engineering+AI+Systems+from+Scratch" alt="typing"/>
 
