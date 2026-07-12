@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:6a11cb,100:2575fc&height=200&section=header&text=Shashank%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f0c29,50:6a11cb,100:2575fc&height=200&section=header&text=Shashank%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+Vector+Search;Training+Computer+Vision+Models;Engineering+AI+Systems+from+Scratch" alt="typing"/>
 
@@ -59,8 +59,8 @@
 <img src="https://cdn.simpleicons.org/jquery/0769AD" width="40" height="40" alt="jQuery"/>&nbsp;
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/groq.svg" width="40" height="40" alt="Groq"/>&nbsp;
 <img src="https://cdn.simpleicons.org/ollama/000000" width="40" height="40" alt="Ollama"/>&nbsp;
-<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=for-the-badge&logoColor=white" height="28" alt="ChromaDB"/>&nbsp;
-<img src="https://img.shields.io/badge/Tkinter-306998?style=for-the-badge&logoColor=white" height="28" alt="Tkinter"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logoColor=white" height="40" alt="ChromaDB"/>&nbsp;
+<img src="https://img.shields.io/badge/Tkinter-306998?style=flat&logoColor=white" height="40" alt="Tkinter"/>
 
 </div>
 
@@ -158,4 +158,4 @@ Ongoing problem-solving across competitive platforms
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,50:6a11cb,100:0f0c29&height=140&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2575fc,50:6a11cb,100:0f0c29&height=140&section=footer" width="100%" alt="footer"/>
