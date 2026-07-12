@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=110&text=Shashank%20Singh&fontSize=34&fontColor=A855F7&fontAlignY=52&fontFamily=Poppins&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=110&text=Shashank%20Singh&fontSize=34&fontColor=A855F7&fontAlignY=42&fontFamily=Poppins&animation=fadeIn" width="100%" alt="header"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+Vector+Search;Training+Computer+Vision+Models;Engineering+AI+Systems+from+Scratch" alt="typing"/>
 
@@ -137,7 +137,7 @@ Ongoing problem-solving across competitive platforms
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Shashank17singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=6a11cb&text_color=c9d1d9" width="48%" alt="stats"/>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Shashank17singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&icon_color=6a11cb&text_color=c9d1d9&rank_icon=github" width="48%" alt="stats"/>
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shashank17singh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=A855F7&text_color=c9d1d9" width="38%" alt="top langs"/>
 
 <br/>
@@ -158,4 +158,4 @@ Ongoing problem-solving across competitive platforms
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2d1b4e,50:1a1a2e,100:0d1117&height=80" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d1b4e,50:1a1a2e,100:0d1117&height=90" width="100%" alt="footer"/>
