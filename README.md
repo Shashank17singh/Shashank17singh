@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=210&section=header&text=Shashank%20Singh&fontSize=48&fontColor=ffffff&fontAlignY=45&animation=fadeIn&desc=AI%20Engineer%20%7C%20GenAI%20%26%20RAG%20Systems%20%7C%20Computer%20Vision&descAlignY=62&descSize=17&descColor=C9B8FF" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=Shashank%20Singh&fontSize=46&fontColor=ffffff&fontAlignY=40&animation=fadeIn" width="100%" alt="header"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=1000&color=B388FF&center=true&vCenter=true&width=560&lines=Building+RAG+%26+LLM-powered+systems;Vector+Search+%2F+HNSW+%2F+KD-Tree+in+C%2B%2B;3rd+Year+B.Tech+CSE+(AI)+%40+Univ.+of+Lucknow" alt="typing-svg"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=1000&color=B388FF&center=true&vCenter=true&width=560&lines=Building+RAG+%26+LLM-powered+systems;Vector+Search+%2F+HNSW+%2F+KD-Tree+in+C%2B%2B;3rd+Year+B.Tech+CSE+(AI)+%40+Univ.+of+Lucknow" alt="typing-svg"/>
 
 <br/><br/>
 
@@ -21,14 +19,16 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Shashank17singh&label=Profile%20Views&color=6a11cb&style=for-the-badge" alt="profile views"/>&nbsp;
-<img src="https://img.shields.io/github/followers/Shashank17singh?label=Followers&style=for-the-badge&color=2575fc" alt="followers"/>
+<img src="https://komarev.com/ghpvc/?username=Shashank17singh&label=Profile+Views&color=6a11cb&style=for-the-badge" alt="profile views"/>&nbsp;
+<img src="https://img.shields.io/github/followers/Shashank17singh?label=Followers&style=for-the-badge&color=2575fc&logo=github&logoColor=white" alt="followers"/>
 
 </div>
 
 <br/>
 
-## 🛠️ Tech Stack
+<h2 align="center">
+<img src="https://api.iconify.design/twemoji/hammer-and-wrench.svg" width="26" height="26" valign="middle"/>&nbsp; Tech Stack
+</h2>
 
 <div align="center">
 
@@ -40,7 +40,9 @@
 
 <br/>
 
-## 📊 GitHub Analytics
+<h2 align="center">
+<img src="https://api.iconify.design/twemoji/bar-chart.svg" width="26" height="26" valign="middle"/>&nbsp; GitHub Analytics
+</h2>
 
 <div align="center">
 
@@ -54,58 +56,74 @@
 
 </div>
 
-## 📌 Featured Projects
+<h2 align="center">
+<img src="https://api.iconify.design/twemoji/pushpin.svg" width="24" height="24" valign="middle"/>&nbsp; Featured Projects
+</h2>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 [Your-Own-AI](https://github.com/Shashank17singh/Your-Own-AI)
-Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
+<img src="https://api.iconify.design/twemoji/brain.svg" width="20" valign="middle"/> **[Your-Own-AI](https://github.com/Shashank17singh/Your-Own-AI)**
 
-`C++` `HNSW` `RAG` `Ollama`
+<sub><i>Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama</i></sub>
 
-</td>
-<td width="50%" valign="top">
-
-### 💬 [PDF Chatbot with History](https://github.com/Shashank17singh/Chatbot_with_PDF_upload_and_History)
-Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
-
-`Python` `LangChain` `Streamlit`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎯 [Celebrity Face Recognition](https://github.com/Shashank17singh/CelebrityFaceRecognition)
-ML pipeline that classifies celebrity faces from images, with a trained model and web UI
-
-`Python` `OpenCV` `Flask`
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![HNSW](https://img.shields.io/badge/HNSW-6a11cb?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### 🏙️ [Bangalore Home Prices](https://github.com/Shashank17singh/Bangalore_Home_Prices)
-Data cleaning, feature engineering, and price prediction model for Bangalore real estate
+<img src="https://api.iconify.design/twemoji/speech-balloon.svg" width="20" valign="middle"/> **[PDF Chatbot with History](https://github.com/Shashank17singh/Chatbot_with_PDF_upload_and_History)**
 
-`Python` `scikit-learn`
+<sub><i>Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB</i></sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏘️ [NIELIT House Price Predictor](https://github.com/Shashank17singh/NIELIT-Project)
-Regression-based house price prediction project built during NIELIT training
+<img src="https://api.iconify.design/twemoji/performing-arts.svg" width="20" valign="middle"/> **[Celebrity Face Recognition](https://github.com/Shashank17singh/CelebrityFaceRecognition)**
 
-`Python` `Tkinter`
+<sub><i>ML pipeline that classifies celebrity faces from images, with a trained model and web UI</i></sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ DSA Practice
-Ongoing problem-solving across competitive platforms
+<img src="https://api.iconify.design/twemoji/cityscape.svg" width="20" valign="middle"/> **[Bangalore Home Prices](https://github.com/Shashank17singh/Bangalore_Home_Prices)**
+
+<sub><i>Data cleaning, feature engineering, and price prediction model for Bangalore real estate</i></sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://api.iconify.design/twemoji/houses.svg" width="20" valign="middle"/> **[NIELIT House Price Predictor](https://github.com/Shashank17singh/NIELIT-Project)**
+
+<sub><i>Regression-based house price prediction project built during NIELIT training</i></sub>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-6a11cb?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://api.iconify.design/twemoji/high-voltage.svg" width="20" valign="middle"/> **DSA Practice**
+
+<sub><i>Ongoing problem-solving across competitive platforms</i></sub>
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://github.com/Shashank17singh/LeetCode)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://github.com/Shashank17singh/Codeforces)
@@ -122,5 +140,3 @@ Ongoing problem-solving across competitive platforms
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=120&section=footer" width="100%" alt="footer"/>
 
 </div>
-
-<!--
