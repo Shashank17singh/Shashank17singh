@@ -18,13 +18,14 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Shashank17singh&color=6a11cb&style=flat&label=Profile+Views)
-
 </div>
 
 <br/>
 
-<h3 align="center">⚡ Tech Stack</h3>
+<h3 align="center">
+<img src="https://api.iconify.design/lucide:zap.svg?color=%23A855F7" width="24" height="24" style="vertical-align:middle"/>&nbsp;
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&width=200&lines=Tech+Stack&repeat=false" style="vertical-align:middle"/>
+</h3>
 
 <div align="center">
 
@@ -66,13 +67,16 @@
 
 <br/>
 
-<h3 align="center">🧠 Featured Projects</h3>
+<h3 align="center">
+<img src="https://api.iconify.design/lucide:folder-code.svg?color=%23A855F7" width="24" height="24" style="vertical-align:middle"/>&nbsp;
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&width=320&lines=Featured+Projects&repeat=false" style="vertical-align:middle"/>
+</h3>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### 🔷 [Your-Own-AI](https://github.com/Shashank17singh/Your-Own-AI)
+#### <img src="https://api.iconify.design/lucide:database.svg?color=%23A855F7" width="20" height="20" style="vertical-align:middle"/> [Your-Own-AI](https://github.com/Shashank17singh/Your-Own-AI)
 Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
 
 <img src="https://skillicons.dev/icons?i=cpp,html" height="28" alt="tech"/>
@@ -80,7 +84,7 @@ Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search
 </td>
 <td width="50%" valign="top">
 
-#### 🟢 [PDF Chatbot with History](https://github.com/Shashank17singh/Chatbot_with_PDF_upload_and_History)
+#### <img src="https://api.iconify.design/lucide:message-square-text.svg?color=%23A855F7" width="20" height="20" style="vertical-align:middle"/> [PDF Chatbot with History](https://github.com/Shashank17singh/Chatbot_with_PDF_upload_and_History)
 Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
 
 <img src="https://skillicons.dev/icons?i=python" height="28" alt="tech"/>&nbsp;
@@ -92,7 +96,7 @@ Conversational RAG app — upload a PDF and chat with it using LangChain, Groq a
 <tr>
 <td width="50%" valign="top">
 
-#### 🎭 [Celebrity Face Recognition](https://github.com/Shashank17singh/CelebrityFaceRecognition)
+#### <img src="https://api.iconify.design/lucide:scan-face.svg?color=%23A855F7" width="20" height="20" style="vertical-align:middle"/> [Celebrity Face Recognition](https://github.com/Shashank17singh/CelebrityFaceRecognition)
 ML pipeline that classifies celebrity faces from images, with a trained model and web UI
 
 <img src="https://skillicons.dev/icons?i=python,opencv,flask" height="28" alt="tech"/>
@@ -100,7 +104,7 @@ ML pipeline that classifies celebrity faces from images, with a trained model an
 </td>
 <td width="50%" valign="top">
 
-#### 🏠 [Bangalore Home Prices](https://github.com/Shashank17singh/Bangalore_Home_Prices)
+#### <img src="https://api.iconify.design/lucide:home.svg?color=%23A855F7" width="20" height="20" style="vertical-align:middle"/> [Bangalore Home Prices](https://github.com/Shashank17singh/Bangalore_Home_Prices)
 Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client
 
 <img src="https://skillicons.dev/icons?i=python,flask,nginx" height="28" alt="tech"/>&nbsp;
@@ -111,7 +115,7 @@ Full-stack price prediction suite for Bangalore real estate — Flask REST API +
 <tr>
 <td width="50%" valign="top">
 
-#### 🏡 [NIELIT House Price Predictor](https://github.com/Shashank17singh/NIELIT-Project)
+#### <img src="https://api.iconify.design/lucide:calculator.svg?color=%23A855F7" width="20" height="20" style="vertical-align:middle"/> [NIELIT House Price Predictor](https://github.com/Shashank17singh/NIELIT-Project)
 Regression-based house price predictor with a Tkinter desktop GUI, built during NIELIT training
 
 <img src="https://skillicons.dev/icons?i=python" height="28" alt="tech"/>&nbsp;
@@ -120,12 +124,12 @@ Regression-based house price predictor with a Tkinter desktop GUI, built during 
 </td>
 <td width="50%" valign="top">
 
-#### 🧩 DSA Practice
+#### <img src="https://api.iconify.design/lucide:puzzle.svg?color=%23A855F7" width="20" height="20" style="vertical-align:middle"/> DSA Practice
 Ongoing problem-solving across competitive platforms
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://github.com/Shashank17singh/LeetCode)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://github.com/Shashank17singh/Codeforces)
-[![GeeksforGeeks](https://img.shields.io/badge/-GfG-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://github.com/Shashank17singh/GeeksforGeeks)
+<a href="https://github.com/Shashank17singh/LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Shashank17singh/Codeforces"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32" height="32" alt="Codeforces"/></a>&nbsp;&nbsp;
+<a href="https://github.com/Shashank17singh/GeeksforGeeks"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="32" height="32" alt="GeeksforGeeks"/></a>
 
 </td>
 </tr>
@@ -133,7 +137,10 @@ Ongoing problem-solving across competitive platforms
 
 <br/>
 
-<h3 align="center">📊 GitHub Stats</h3>
+<h3 align="center">
+<img src="https://api.iconify.design/lucide:bar-chart-3.svg?color=%23A855F7" width="24" height="24" style="vertical-align:middle"/>&nbsp;
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&width=240&lines=GitHub+Stats&repeat=false" style="vertical-align:middle"/>
+</h3>
 
 <div align="center">
 
@@ -148,7 +155,10 @@ Ongoing problem-solving across competitive platforms
 
 <br/>
 
-<h3 align="center">🐍 Contribution Graph</h3>
+<h3 align="center">
+<img src="https://api.iconify.design/lucide:activity.svg?color=%23A855F7" width="24" height="24" style="vertical-align:middle"/>&nbsp;
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=26&duration=1&pause=100000&color=A855F7&center=true&vCenter=true&width=320&lines=Contribution+Graph&repeat=false" style="vertical-align:middle"/>
+</h3>
 
 <div align="center">
 
