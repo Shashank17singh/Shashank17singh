@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=180&text=Shashank%20Singh&fontSize=38&fontColor=A855F7&fontAlignY=38&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=110&text=Shashank%20Singh&fontSize=30&fontColor=A855F7&fontAlignY=32&fontFamily=Trebuchet%20MS&animation=fadeIn" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+Vector+Search;Training+Computer+Vision+Models;Engineering+AI+Systems+from+Scratch" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+Vector+Search;Training+Computer+Vision+Models;Engineering+AI+Systems" alt="typing"/>
 
 <br/>
 
@@ -28,19 +28,19 @@
 
 <div align="center">
 
-**Languages & Core**
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=F59E0B&vCenter=true&width=220&height=26&lines=Languages+%26+Core&repeat=false"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=cpp,py,js,html,css" alt="languages"/>
 
 <br/><br/>
 
-**Backend & ML**
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=22D3EE&vCenter=true&width=200&height=26&lines=Backend+%26+ML&repeat=false"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=flask,fastapi,nginx,opencv,mysql" alt="backend"/>
 
 <br/><br/>
 
-**Data & Tooling**
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=10B981&vCenter=true&width=200&height=26&lines=Data+%26+Tooling&repeat=false"/>
 <br/>
 <img src="https://skillicons.dev/icons?i=py,postman" alt="tooling"/>&nbsp;
 <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy"/>&nbsp;
@@ -51,7 +51,7 @@
 
 <br/><br/>
 
-**AI / LLM & Web Tooling**
+<img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=F43F5E&vCenter=true&width=320&height=26&lines=AI+%2F+LLM+%26+Web+Tooling&repeat=false"/>
 <br/>
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/>&nbsp;
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="HuggingFace"/>&nbsp;
