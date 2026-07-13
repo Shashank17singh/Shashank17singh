@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-<img src="assets/tech-stack.svg" alt="Tech Stack"/>
+<img src="https://img.shields.io/static/v1?label=&message=Tech%20Stack&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjU5RTBCIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWdvbiBwb2ludHM9IjEzIDIgMyAxNCAxMiAxNCAxMSAyMiAyMSAxMCAxMiAxMCAxMyAyIi8%2BPC9zdmc%2BCg%3D%3D" alt="Tech Stack"/>
 </p>
 
 <div align="center">
@@ -67,14 +67,14 @@
 <br/>
 
 <p align="center">
-<img src="assets/featured-projects.svg" alt="Featured Projects"/>
+<img src="https://img.shields.io/static/v1?label=&message=Featured%20Projects&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjJEM0VFIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDZsMiAyaDhhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY2YTIgMiAwIDAgMSAyLTJ6Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Featured Projects"/>
 </p>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Your-Own-AI"><img src="assets/title-your-own-ai.svg" alt="Your-Own-AI"/></a>
+#### <a href="https://github.com/Shashank17singh/Your-Own-AI"><img src="https://img.shields.io/static/v1?label=&message=Your-Own-AI&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNjM2NkYxIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djZjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTF2NmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zdi02Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Your-Own-AI"/></a>
 Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
 
 <img src="https://skillicons.dev/icons?i=cpp,html" height="28" alt="tech"/>
@@ -82,7 +82,7 @@ Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Chatbot_with_PDF_upload_and_History"><img src="assets/title-pdf-chatbot.svg" alt="PDF Chatbot with History"/></a>
+#### <a href="https://github.com/Shashank17singh/Chatbot_with_PDF_upload_and_History"><img src="https://img.shields.io/static/v1?label=&message=PDF%20Chatbot%20with%20History&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjM0I4MkY2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDE2djEySDhsLTQgNHoiLz48bGluZSB4MT0iNyIgeTE9IjgiIHgyPSIxNyIgeTI9IjgiLz48bGluZSB4MT0iNyIgeTE9IjEyIiB4Mj0iMTMiIHkyPSIxMiIvPjwvc3ZnPgo%3D" alt="PDF Chatbot with History"/></a>
 Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
 
 <img src="https://skillicons.dev/icons?i=python" height="28" alt="tech"/>&nbsp;
@@ -94,7 +94,7 @@ Conversational RAG app — upload a PDF and chat with it using LangChain, Groq a
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/CelebrityFaceRecognition"><img src="assets/title-celebrity-face.svg" alt="Celebrity Face Recognition"/></a>
+#### <a href="https://github.com/Shashank17singh/CelebrityFaceRecognition"><img src="https://img.shields.io/static/v1?label=&message=Celebrity%20Face%20Recognition&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRUM0ODk5IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyA3VjVhMiAyIDAgMCAxIDItMmgyIi8%2BPHBhdGggZD0iTTE3IDNoMmEyIDIgMCAwIDEgMiAydjIiLz48cGF0aCBkPSJNMjEgMTd2MmEyIDIgMCAwIDEtMiAyaC0yIi8%2BPHBhdGggZD0iTTcgMjFINWEyIDIgMCAwIDEtMi0ydi0yIi8%2BPGNpcmNsZSBjeD0iOSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiNFQzQ4OTkiLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiNFQzQ4OTkiLz48cGF0aCBkPSJNOSAxNWMuNiAxIDEuNiAxLjUgMyAxLjVzMi40LS41IDMtMS41Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Celebrity Face Recognition"/></a>
 ML pipeline that classifies celebrity faces from images, with a trained model and web UI
 
 <img src="https://skillicons.dev/icons?i=python,opencv,flask" height="28" alt="tech"/>
@@ -102,7 +102,7 @@ ML pipeline that classifies celebrity faces from images, with a trained model an
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices"><img src="assets/title-bangalore-home.svg" alt="Bangalore Home Prices"/></a>
+#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices"><img src="https://img.shields.io/static/v1?label=&message=Bangalore%20Home%20Prices&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjk3MzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Bangalore Home Prices"/></a>
 Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client
 
 <img src="https://skillicons.dev/icons?i=python,flask,nginx" height="28" alt="tech"/>&nbsp;
@@ -113,7 +113,7 @@ Full-stack price prediction suite for Bangalore real estate — Flask REST API +
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/NIELIT-Project"><img src="assets/title-nielit.svg" alt="NIELIT House Price Predictor"/></a>
+#### <a href="https://github.com/Shashank17singh/NIELIT-Project"><img src="https://img.shields.io/static/v1?label=&message=NIELIT%20House%20Price%20Predictor&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTRCOEE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSI0IiB5PSIyIiB3aWR0aD0iMTYiIGhlaWdodD0iMjAiIHJ4PSIyIi8%2BPGxpbmUgeDE9IjgiIHkxPSI2IiB4Mj0iMTYiIHkyPSI2Ii8%2BPGxpbmUgeDE9IjgiIHkxPSIxMSIgeDI9IjguMDEiIHkyPSIxMSIvPjxsaW5lIHgxPSIxMiIgeTE9IjExIiB4Mj0iMTIuMDEiIHkyPSIxMSIvPjxsaW5lIHgxPSIxNiIgeTE9IjExIiB4Mj0iMTYuMDEiIHkyPSIxMSIvPjxsaW5lIHgxPSI4IiB5MT0iMTUiIHgyPSI4LjAxIiB5Mj0iMTUiLz48bGluZSB4MT0iMTIiIHkxPSIxNSIgeDI9IjEyLjAxIiB5Mj0iMTUiLz48bGluZSB4MT0iMTYiIHkxPSIxNSIgeDI9IjE2LjAxIiB5Mj0iMTUiLz48bGluZSB4MT0iOCIgeTE9IjE4IiB4Mj0iMTYiIHkyPSIxOCIvPjwvc3ZnPgo%3D" alt="NIELIT House Price Predictor"/></a>
 Regression-based house price predictor with a Tkinter desktop GUI, built during NIELIT training
 
 <img src="https://skillicons.dev/icons?i=python" height="28" alt="tech"/>&nbsp;
@@ -122,7 +122,7 @@ Regression-based house price predictor with a Tkinter desktop GUI, built during 
 </td>
 <td width="50%" valign="top">
 
-#### <img src="assets/title-dsa-practice.svg" alt="DSA Practice"/>
+#### <img src="https://img.shields.io/static/v1?label=&message=DSA%20Practice&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjJDNTVFIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNSA4aDNhMiAyIDAgMSAwIDAtNHYtLjVhMS41IDEuNSAwIDAgMSAzIDBWNGEyIDIgMCAxIDAgNCAwdi0uNWExLjUgMS41IDAgMCAxIDMgMFY0aDNhMiAyIDAgMCAxIDIgMnYzaC0uNWExLjUgMS41IDAgMCAwIDAgM2guNXYzYTIgMiAwIDAgMS0yIDJoLTN2LS41YTEuNSAxLjUgMCAwIDAtMyAwdi41YTIgMiAwIDEgMS00IDB2LS41YTEuNSAxLjUgMCAwIDAtMyAwdi41SDVhMiAyIDAgMCAxLTItMnYtM2EyIDIgMCAxIDAgMC00eiIvPjwvc3ZnPgo%3D" alt="DSA Practice"/>
 Ongoing problem-solving across competitive platforms
 
 <a href="https://github.com/Shashank17singh/LeetCode"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode"/></a>&nbsp;&nbsp;
@@ -136,7 +136,7 @@ Ongoing problem-solving across competitive platforms
 <br/>
 
 <p align="center">
-<img src="assets/github-stats.svg" alt="GitHub Stats"/>
+<img src="https://img.shields.io/static/v1?label=&message=GitHub%20Stats&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTBCOTgxIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iMTIiIHkxPSIyMCIgeDI9IjEyIiB5Mj0iMTAiLz48bGluZSB4MT0iMTgiIHkxPSIyMCIgeDI9IjE4IiB5Mj0iNCIvPjxsaW5lIHgxPSI2IiB5MT0iMjAiIHgyPSI2IiB5Mj0iMTYiLz48L3N2Zz4K" alt="GitHub Stats"/>
 </p>
 
 <div align="center">
@@ -153,7 +153,7 @@ Ongoing problem-solving across competitive platforms
 <br/>
 
 <p align="center">
-<img src="assets/contribution-graph.svg" alt="Contribution Graph"/>
+<img src="https://img.shields.io/static/v1?label=&message=Contribution%20Graph&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjQzRjVFIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSIyMiAxMiAxOCAxMiAxNSAyMSA5IDMgNiAxMiAyIDEyIi8%2BPC9zdmc%2BCg%3D%3D" alt="Contribution Graph"/>
 </p>
 
 <div align="center">
