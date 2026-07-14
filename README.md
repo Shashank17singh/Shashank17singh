@@ -74,7 +74,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Your-Own-AI"><img src="https://img.shields.io/static/v1?label=&message=Your-Own-AI&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNjM2NkYxIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djZjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTF2NmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zdi02Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Your-Own-AI"/></a>
+#### <a href="https://github.com/Shashank17singh/VectorDB"><img src="https://img.shields.io/static/v1?label=&message=Your-Own-AI&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNjM2NkYxIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djZjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTF2NmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zdi02Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Your-Own-AI"/></a>
 Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
 
 <img src="https://skillicons.dev/icons?i=cpp,html" height="28" alt="tech"/>
@@ -102,8 +102,8 @@ ML pipeline that classifies celebrity faces from images, with a trained model an
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_API"><img src="https://img.shields.io/static/v1?label=&message=Bangalore%20Home%20Prices&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjk3MzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Bangalore Home Prices"/></a>
-Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_Desktop_Client">standalone Tkinter desktop client</a>
+#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices"><img src="https://img.shields.io/static/v1?label=&message=Bangalore%20Home%20Prices&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjk3MzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Bangalore Home Prices"/></a>
+Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client</a>
 
 <img src="https://skillicons.dev/icons?i=python,flask,nginx" height="28" alt="tech"/>&nbsp;
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28" alt="scikit-learn"/>
