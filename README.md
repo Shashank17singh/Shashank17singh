@@ -82,12 +82,36 @@ Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search
 </td>
 <td width="50%" valign="top">
 
+#### <a href="https://github.com/Shashank17singh/Resume-Parser"><img src="https://img.shields.io/static/v1?label=&message=Resume%20Parser&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTRCOEE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjh6Ii8%2BPHBhdGggZD0iTTE0IDJ2Nmg2Ii8%2BPHBhdGggZD0ibTkgMTUgMiAyIDQtNCIvPjwvc3ZnPgo%3D" alt="Resume Parser"/></a>
+LLM-powered resume screener — parses resumes & job descriptions into structured data via Groq, then ranks candidates by fit with a Streamlit shortlist UI
+
+<img src="https://skillicons.dev/icons?i=py,streamlit" height="28" alt="tech"/>&nbsp;
+<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/groq.svg" height="28" alt="Groq"/>
+
+<br/>
+
+<a href="https://resume-parsers.streamlit.app/">🔗 Live demo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 #### <img src="https://img.shields.io/static/v1?label=&message=PDF%20Chatbot%20with%20History&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjM0I4MkY2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDE2djEySDhsLTQgNHoiLz48bGluZSB4MT0iNyIgeTE9IjgiIHgyPSIxNyIgeTI9IjgiLz48bGluZSB4MT0iNyIgeTE9IjEyIiB4Mj0iMTMiIHkyPSIxMiIvPjwvc3ZnPgo%3D" alt="PDF Chatbot with History"/>
 Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
 
 <img src="https://skillicons.dev/icons?i=python" height="28" alt="tech"/>&nbsp;
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="28" alt="LangChain"/>&nbsp;
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="28" alt="Streamlit"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### <img src="https://img.shields.io/static/v1?label=&message=Bangalore%20Home%20Prices&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjk3MzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Bangalore Home Prices"/>
+Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client
+
+<img src="https://skillicons.dev/icons?i=python,flask,nginx" height="28" alt="tech"/>&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28" alt="scikit-learn"/>
 
 </td>
 </tr>
@@ -101,33 +125,6 @@ ML pipeline that classifies celebrity faces from images, with a trained model an
 
 </td>
 <td width="50%" valign="top">
-
-#### <img src="https://img.shields.io/static/v1?label=&message=Bangalore%20Home%20Prices&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjk3MzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Bangalore Home Prices"/>
-Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client</a>
-
-<img src="https://skillicons.dev/icons?i=python,flask,nginx" height="28" alt="tech"/>&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28" alt="scikit-learn"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### <img src="https://img.shields.io/static/v1?label=&message=NIELIT%20House%20Price%20Predictor&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTRCOEE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cmVjdCB4PSI0IiB5PSIyIiB3aWR0aD0iMTYiIGhlaWdodD0iMjAiIHJ4PSIyIi8%2BPGxpbmUgeDE9IjgiIHkxPSI2IiB4Mj0iMTYiIHkyPSI2Ii8%2BPGxpbmUgeDE9IjgiIHkxPSIxMSIgeDI9IjguMDEiIHkyPSIxMSIvPjxsaW5lIHgxPSIxMiIgeTE9IjExIiB4Mj0iMTIuMDEiIHkyPSIxMSIvPjxsaW5lIHgxPSIxNiIgeTE9IjExIiB4Mj0iMTYuMDEiIHkyPSIxMSIvPjxsaW5lIHgxPSI4IiB5MT0iMTUiIHgyPSI4LjAxIiB5Mj0iMTUiLz48bGluZSB4MT0iMTIiIHkxPSIxNSIgeDI9IjEyLjAxIiB5Mj0iMTUiLz48bGluZSB4MT0iMTYiIHkxPSIxNSIgeDI9IjE2LjAxIiB5Mj0iMTUiLz48bGluZSB4MT0iOCIgeTE9IjE4IiB4Mj0iMTYiIHkyPSIxOCIvPjwvc3ZnPgo%3D" alt="NIELIT House Price Predictor"/>
-Regression-based house price predictor with a Tkinter desktop GUI, built during NIELIT training
-
-<img src="https://skillicons.dev/icons?i=python" height="28" alt="tech"/>&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28" alt="scikit-learn"/>
-
-</td>
-<td width="50%" valign="top">
-
-#### <img src="https://img.shields.io/static/v1?label=&message=DSA%20Practice&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjJDNTVFIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNSA4aDNhMiAyIDAgMSAwIDAtNHYtLjVhMS41IDEuNSAwIDAgMSAzIDBWNGEyIDIgMCAxIDAgNCAwdi0uNWExLjUgMS41IDAgMCAxIDMgMFY0aDNhMiAyIDAgMCAxIDIgMnYzaC0uNWExLjUgMS41IDAgMCAwIDAgM2guNXYzYTIgMiAwIDAgMS0yIDJoLTN2LS41YTEuNSAxLjUgMCAwIDAtMyAwdi41YTIgMiAwIDEgMS00IDB2LS41YTEuNSAxLjUgMCAwIDAtMyAwdi41SDVhMiAyIDAgMCAxLTItMnYtM2EyIDIgMCAxIDAgMC00eiIvPjwvc3ZnPgo%3D" alt="DSA Practice"/>
-Ongoing problem-solving across competitive platforms
-
-<img src="https://cdn.simpleicons.org/leetcode/FFA116" width="32" height="32" alt="LeetCode"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="32" height="32" alt="Codeforces"/>&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="32" height="32" alt="GeeksforGeeks"/>
 
 </td>
 </tr>
