@@ -75,17 +75,21 @@
 <td width="50%" valign="top">
 
 #### <a href="https://github.com/Shashank17singh/VectorDB"><img src="https://img.shields.io/static/v1?label=&message=VectorDB&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNjM2NkYxIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djZjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTF2NmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zdi02Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Your-Own-AI"/></a>
+
 Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
-<img src="https://skillicons.dev/icons?i=cpp,html" height="28" alt="tech"/>
+
+<img src="https://skillicons.dev/icons?i=cpp,html" height="24" alt="tech"/>
 
 </td>
 <td width="50%" valign="top">
 
 #### <a href="https://github.com/Shashank17singh/Resume-Parser"><img src="https://img.shields.io/static/v1?label=&message=Resume%20Parser&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTRCOEE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjh6Ii8%2BPHBhdGggZD0iTTE0IDJ2Nmg2Ii8%2BPHBhdGggZD0ibTkgMTUgMiAyIDQtNCIvPjwvc3ZnPgo%3D" alt="Resume Parser"/></a>
+
 LLM-powered resume screener — parses resumes & job descriptions into structured data via Groq, then ranks candidates by fit
-<img src="https://skillicons.dev/icons?i=py,streamlit" height="28" alt="tech"/>&nbsp;
-<img src="https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white" height="28" alt="Groq"/>
-<br/><a href="https://resume-parsers.streamlit.app/">🔗 Live demo</a>
+
+<img src="https://skillicons.dev/icons?i=py,streamlit" height="24" alt="tech"/><img src="https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white" height="24" alt="Groq"/>
+
+<a href="https://resume-parsers.streamlit.app/">🔗 Live demo</a>
 
 </td>
 </tr>
@@ -93,20 +97,23 @@ LLM-powered resume screener — parses resumes & job descriptions into structure
 <td width="50%" valign="top">
 
 #### <a href="https://github.com/Shashank17singh/Conversational-RAG-Chatbot"><img src="https://img.shields.io/static/v1?label=&message=PDF%20Chatbot%20with%20History&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjM0I4MkY2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDE2djEySDhsLTQgNHoiLz48bGluZSB4MT0iNyIgeTE9IjgiIHgyPSIxNyIgeTI9IjgiLz48bGluZSB4MT0iNyIgeTE9IjEyIiB4Mj0iMTMiIHkyPSIxMiIvPjwvc3ZnPgo%3D" alt="PDF Chatbot with History"/></a>
+
 Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
-<img src="https://skillicons.dev/icons?i=python" height="28" alt="tech"/>&nbsp;
-<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="28" alt="LangChain"/>&nbsp;
-<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="28" alt="Streamlit"/>
-<br/><a href="https://conversational-rag-chatbot-pdf.streamlit.app/">🔗 Live demo</a>
+
+<img src="https://skillicons.dev/icons?i=python" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="24" alt="LangChain"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>
+
+<a href="https://conversational-rag-chatbot-pdf.streamlit.app/">🔗 Live demo</a>
 
 </td>
 <td width="50%" valign="top">
 
 #### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_API"><img src="https://img.shields.io/static/v1?label=&message=Bangalore%20Home%20Prices&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjk3MzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Bangalore Home Prices"/></a>
+
 Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client
-<img src="https://skillicons.dev/icons?i=python,flask,nginx" height="28" alt="tech"/>&nbsp;
-<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="28" alt="scikit-learn"/>
-<br/><a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_Desktop_Client">🖥️ Desktop client repo</a> · <a href="http://3.85.41.35/">🔗 Live API</a>
+
+<img src="https://skillicons.dev/icons?i=python,flask,nginx" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
+
+<a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_Desktop_Client">🖥️ Desktop client repo</a> · <a href="http://3.85.41.35/">🔗 Live API</a>
 
 </td>
 </tr>
@@ -114,9 +121,12 @@ Full-stack price prediction suite for Bangalore real estate — Flask REST API +
 <td width="50%" valign="top">
 
 #### <a href="https://github.com/Shashank17singh/CelebrityFaceRecognition"><img src="https://img.shields.io/static/v1?label=&message=Celebrity%20Face%20Recognition&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRUM0ODk5IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyA3VjVhMiAyIDAgMCAxIDItMmgyIi8%2BPHBhdGggZD0iTTE3IDNoMmEyIDIgMCAwIDEgMiAydjIiLz48cGF0aCBkPSJNMjEgMTd2MmEyIDIgMCAwIDEtMiAyaC0yIi8%2BPHBhdGggZD0iTTcgMjFINWEyIDIgMCAwIDEtMi0ydi0yIi8%2BPGNpcmNsZSBjeD0iOSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiNFQzQ4OTkiLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiNFQzQ4OTkiLz48cGF0aCBkPSJNOSAxNWMuNiAxIDEuNiAxLjUgMyAxLjVzMi40LS41IDMtMS41Ii8%2BPC9zdmc%2BCg%3D%3D" alt="Celebrity Face Recognition"/></a>
+
 ML pipeline that classifies celebrity faces from images, with a trained model and web UI
-<img src="https://skillicons.dev/icons?i=python,opencv,flask" height="28" alt="tech"/>
-<br/><a href="https://celebrity-face-recognition-xi.vercel.app/">🔗 Live demo</a>
+
+<img src="https://skillicons.dev/icons?i=python,opencv,flask" height="24" alt="tech"/>
+
+<a href="https://celebrity-face-recognition-xi.vercel.app/">🔗 Live demo</a>
 
 </td>
 <td width="50%" valign="top">
