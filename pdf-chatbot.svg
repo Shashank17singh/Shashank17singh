@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="476" height="56" viewBox="0 0 476 56">
+<rect x="0" y="0" width="476" height="56" rx="8" fill="#1a1a2e"/>
+<g transform="translate(18,15.0) scale(1.0833)" fill="none" stroke="#3B82F6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<path d="M4 4h16v12H8l-4 4z"/><line x1="7" y1="8" x2="17" y2="8"/><line x1="7" y1="12" x2="13" y2="12"/>
+</g>
+<text x="72" y="35.0" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="20" font-weight="bold" letter-spacing="1.5" fill="#ffffff">PDF CHATBOT WITH HISTORY</text>
+</svg>

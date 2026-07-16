@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTUiIGhlaWdodD0iNTYiIHZpZXdCb3g9IjAgMCAyNTUgNTYiPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMjU1IiBoZWlnaHQ9IjU2IiByeD0iOCIgZmlsbD0iIzFhMWEyZSIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCwxNS4wKSBzY2FsZSgxLjA4MzMpIiBmaWxsPSJub25lIiBzdHJva2U9IiNGNTlFMEIiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8cG9seWdvbiBwb2ludHM9IjEzIDIgMyAxNCAxMiAxNCAxMSAyMiAyMSAxMCAxMiAxMCAxMyAyIi8+CjwvZz4KPHRleHQgeD0iNzIiIHk9IjM1LjAiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBHZW5ldmEsIERlamFWdSBTYW5zLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjEuNSIgZmlsbD0iI2ZmZmZmZiI+VEVDSCBTVEFDSzwvdGV4dD4KPC9zdmc+" alt="Tech Stack"/>
+<img src="assets/badges/tech-stack.svg" alt="Tech Stack"/>
 </p>
 
 <div align="center">
@@ -67,14 +67,14 @@
 <br/>
 
 <p align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzNjUiIGhlaWdodD0iNTYiIHZpZXdCb3g9IjAgMCAzNjUgNTYiPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMzY1IiBoZWlnaHQ9IjU2IiByeD0iOCIgZmlsbD0iIzFhMWEyZSIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCwxNS4wKSBzY2FsZSgxLjA4MzMpIiBmaWxsPSJub25lIiBzdHJva2U9IiMyMkQzRUUiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8cGF0aCBkPSJNNCA0aDZsMiAyaDhhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY2YTIgMiAwIDAgMSAyLTJ6Ii8+CjwvZz4KPHRleHQgeD0iNzIiIHk9IjM1LjAiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBHZW5ldmEsIERlamFWdSBTYW5zLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjEuNSIgZmlsbD0iI2ZmZmZmZiI+RkVBVFVSRUQgUFJPSkVDVFM8L3RleHQ+Cjwvc3ZnPg==" alt="Featured Projects"/>
+<img src="assets/badges/featured-projects.svg" alt="Featured Projects"/>
 </p>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/VectorDB"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyMjQiIGhlaWdodD0iNTYiIHZpZXdCb3g9IjAgMCAyMjQgNTYiPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMjI0IiBoZWlnaHQ9IjU2IiByeD0iOCIgZmlsbD0iIzFhMWEyZSIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCwxNS4wKSBzY2FsZSgxLjA4MzMpIiBmaWxsPSJub25lIiBzdHJva2U9IiM2MzY2RjEiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djZjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8+PHBhdGggZD0iTTQgMTF2NmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zdi02Ii8+CjwvZz4KPHRleHQgeD0iNzIiIHk9IjM1LjAiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBHZW5ldmEsIERlamFWdSBTYW5zLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjEuNSIgZmlsbD0iI2ZmZmZmZiI+VkVDVE9SREI8L3RleHQ+Cjwvc3ZnPg==" alt="Your-Own-AI"/></a>
+#### <a href="https://github.com/Shashank17singh/VectorDB"><img src="assets/badges/vectordb.svg" alt="Your-Own-AI"/></a>
 
 Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
 
@@ -83,7 +83,7 @@ Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Resume-Parser"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDIiIGhlaWdodD0iNTYiIHZpZXdCb3g9IjAgMCAzMDIgNTYiPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMzAyIiBoZWlnaHQ9IjU2IiByeD0iOCIgZmlsbD0iIzFhMWEyZSIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCwxNS4wKSBzY2FsZSgxLjA4MzMpIiBmaWxsPSJub25lIiBzdHJva2U9IiMxNEI4QTYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8cGF0aCBkPSJNMTQgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjh6Ii8+PHBhdGggZD0iTTE0IDJ2Nmg2Ii8+PHBhdGggZD0ibTkgMTUgMiAyIDQtNCIvPgo8L2c+Cjx0ZXh0IHg9IjcyIiB5PSIzNS4wIiBmb250LWZhbWlseT0iVmVyZGFuYSwgR2VuZXZhLCBEZWphVnUgU2Fucywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGxldHRlci1zcGFjaW5nPSIxLjUiIGZpbGw9IiNmZmZmZmYiPlJFU1VNRSBQQVJTRVI8L3RleHQ+Cjwvc3ZnPg==" alt="Resume Parser"/></a>
+#### <a href="https://github.com/Shashank17singh/Resume-Parser"><img src="assets/badges/resume-parser.svg" alt="Resume Parser"/></a>
 
 LLM-powered resume screener — parses resumes & job descriptions into structured data via Groq, then ranks candidates by fit
 
@@ -96,7 +96,7 @@ LLM-powered resume screener — parses resumes & job descriptions into structure
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Conversational-RAG-Chatbot"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NzYiIGhlaWdodD0iNTYiIHZpZXdCb3g9IjAgMCA0NzYgNTYiPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNDc2IiBoZWlnaHQ9IjU2IiByeD0iOCIgZmlsbD0iIzFhMWEyZSIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCwxNS4wKSBzY2FsZSgxLjA4MzMpIiBmaWxsPSJub25lIiBzdHJva2U9IiMzQjgyRjYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8cGF0aCBkPSJNNCA0aDE2djEySDhsLTQgNHoiLz48bGluZSB4MT0iNyIgeTE9IjgiIHgyPSIxNyIgeTI9IjgiLz48bGluZSB4MT0iNyIgeTE9IjEyIiB4Mj0iMTMiIHkyPSIxMiIvPgo8L2c+Cjx0ZXh0IHg9IjcyIiB5PSIzNS4wIiBmb250LWZhbWlseT0iVmVyZGFuYSwgR2VuZXZhLCBEZWphVnUgU2Fucywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGxldHRlci1zcGFjaW5nPSIxLjUiIGZpbGw9IiNmZmZmZmYiPlBERiBDSEFUQk9UIFdJVEggSElTVE9SWTwvdGV4dD4KPC9zdmc+" alt="PDF Chatbot with History"/></a>
+#### <a href="https://github.com/Shashank17singh/Conversational-RAG-Chatbot"><img src="assets/badges/pdf-chatbot.svg" alt="PDF Chatbot with History"/></a>
 
 Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
 
@@ -107,7 +107,7 @@ Conversational RAG app — upload a PDF and chat with it using LangChain, Groq a
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_API"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MjgiIGhlaWdodD0iNTYiIHZpZXdCb3g9IjAgMCA0MjggNTYiPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNDI4IiBoZWlnaHQ9IjU2IiByeD0iOCIgZmlsbD0iIzFhMWEyZSIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCwxNS4wKSBzY2FsZSgxLjA4MzMpIiBmaWxsPSJub25lIiBzdHJva2U9IiNGOTczMTYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8+PHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8+CjwvZz4KPHRleHQgeD0iNzIiIHk9IjM1LjAiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBHZW5ldmEsIERlamFWdSBTYW5zLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjEuNSIgZmlsbD0iI2ZmZmZmZiI+QkFOR0FMT1JFIEhPTUUgUFJJQ0VTPC90ZXh0Pgo8L3N2Zz4=" alt="Bangalore Home Prices"/></a>
+#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_API"><img src="assets/badges/bangalore-home-prices.svg" alt="Bangalore Home Prices"/></a>
 
 Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client
 
@@ -120,7 +120,7 @@ Full-stack price prediction suite for Bangalore real estate — Flask REST API +
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/CelebrityFaceRecognition"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI1MDciIGhlaWdodD0iNTYiIHZpZXdCb3g9IjAgMCA1MDcgNTYiPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNTA3IiBoZWlnaHQ9IjU2IiByeD0iOCIgZmlsbD0iIzFhMWEyZSIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCwxNS4wKSBzY2FsZSgxLjA4MzMpIiBmaWxsPSJub25lIiBzdHJva2U9IiNFQzQ4OTkiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8cGF0aCBkPSJNMyA3VjVhMiAyIDAgMCAxIDItMmgyIi8+PHBhdGggZD0iTTE3IDNoMmEyIDIgMCAwIDEgMiAydjIiLz48cGF0aCBkPSJNMjEgMTd2MmEyIDIgMCAwIDEtMiAyaC0yIi8+PHBhdGggZD0iTTcgMjFINWEyIDIgMCAwIDEtMi0ydi0yIi8+PGNpcmNsZSBjeD0iOSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiNFQzQ4OTkiLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiNFQzQ4OTkiLz48cGF0aCBkPSJNOSAxNWMuNiAxIDEuNiAxLjUgMyAxLjVzMi40LS41IDMtMS41Ii8+CjwvZz4KPHRleHQgeD0iNzIiIHk9IjM1LjAiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBHZW5ldmEsIERlamFWdSBTYW5zLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjEuNSIgZmlsbD0iI2ZmZmZmZiI+Q0VMRUJSSVRZIEZBQ0UgUkVDT0dOSVRJT048L3RleHQ+Cjwvc3ZnPg==" alt="Celebrity Face Recognition"/></a>
+#### <a href="https://github.com/Shashank17singh/CelebrityFaceRecognition"><img src="assets/badges/celebrity-face-recognition.svg" alt="Celebrity Face Recognition"/></a>
 
 ML pipeline that classifies celebrity faces from images, with a trained model and web UI
 
@@ -131,7 +131,7 @@ ML pipeline that classifies celebrity faces from images, with a trained model an
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/NIELIT-Project"><img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0MjgiIGhlaWdodD0iNTYiIHZpZXdCb3g9IjAgMCA0MjggNTYiPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNDI4IiBoZWlnaHQ9IjU2IiByeD0iOCIgZmlsbD0iIzFhMWEyZSIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCwxNS4wKSBzY2FsZSgxLjA4MzMpIiBmaWxsPSJub25lIiBzdHJva2U9IiM4NENDMTYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8+PHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8+PGxpbmUgeDE9IjkiIHkxPSI2LjUiIHgyPSI5IiB5Mj0iMyIvPjxsaW5lIHgxPSIxNSIgeTE9IjYuNSIgeDI9IjE1IiB5Mj0iMyIvPgo8L2c+Cjx0ZXh0IHg9IjcyIiB5PSIzNS4wIiBmb250LWZhbWlseT0iVmVyZGFuYSwgR2VuZXZhLCBEZWphVnUgU2Fucywgc2Fucy1zZXJpZiIgZm9udC1zaXplPSIyMCIgZm9udC13ZWlnaHQ9ImJvbGQiIGxldHRlci1zcGFjaW5nPSIxLjUiIGZpbGw9IiNmZmZmZmYiPkhPVVNFIFBSSUNFIFBSRURJQ1RPUjwvdGV4dD4KPC9zdmc+" alt="House Price Predictor"/></a>
+#### <a href="https://github.com/Shashank17singh/NIELIT-Project"><img src="assets/badges/house-price-predictor.svg" alt="House Price Predictor"/></a>
 
 Desktop GUI app that predicts house prices from location, size and parking inputs — Linear Regression model trained with scikit-learn, wrapped in a Tkinter interface
 
@@ -146,7 +146,7 @@ Desktop GUI app that predicts house prices from location, size and parking input
 <br/>
 
 <p align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyODciIGhlaWdodD0iNTYiIHZpZXdCb3g9IjAgMCAyODcgNTYiPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMjg3IiBoZWlnaHQ9IjU2IiByeD0iOCIgZmlsbD0iIzFhMWEyZSIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCwxNS4wKSBzY2FsZSgxLjA4MzMpIiBmaWxsPSJub25lIiBzdHJva2U9IiMxMEI5ODEiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8bGluZSB4MT0iMTIiIHkxPSIyMCIgeDI9IjEyIiB5Mj0iMTAiLz48bGluZSB4MT0iMTgiIHkxPSIyMCIgeDI9IjE4IiB5Mj0iNCIvPjxsaW5lIHgxPSI2IiB5MT0iMjAiIHgyPSI2IiB5Mj0iMTYiLz4KPC9nPgo8dGV4dCB4PSI3MiIgeT0iMzUuMCIgZm9udC1mYW1pbHk9IlZlcmRhbmEsIEdlbmV2YSwgRGVqYVZ1IFNhbnMsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMjAiIGZvbnQtd2VpZ2h0PSJib2xkIiBsZXR0ZXItc3BhY2luZz0iMS41IiBmaWxsPSIjZmZmZmZmIj5HSVRIVUIgU1RBVFM8L3RleHQ+Cjwvc3ZnPg==" alt="GitHub Stats"/>
+<img src="assets/badges/github-stats.svg" alt="GitHub Stats"/>
 </p>
 
 <div align="center">
@@ -163,7 +163,7 @@ Desktop GUI app that predicts house prices from location, size and parking input
 <br/>
 
 <p align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzODEiIGhlaWdodD0iNTYiIHZpZXdCb3g9IjAgMCAzODEgNTYiPgo8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMzgxIiBoZWlnaHQ9IjU2IiByeD0iOCIgZmlsbD0iIzFhMWEyZSIvPgo8ZyB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxOCwxNS4wKSBzY2FsZSgxLjA4MzMpIiBmaWxsPSJub25lIiBzdHJva2U9IiNGNDNGNUUiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiPgo8cG9seWxpbmUgcG9pbnRzPSIyMiAxMiAxOCAxMiAxNSAyMSA5IDMgNiAxMiAyIDEyIi8+CjwvZz4KPHRleHQgeD0iNzIiIHk9IjM1LjAiIGZvbnQtZmFtaWx5PSJWZXJkYW5hLCBHZW5ldmEsIERlamFWdSBTYW5zLCBzYW5zLXNlcmlmIiBmb250LXNpemU9IjIwIiBmb250LXdlaWdodD0iYm9sZCIgbGV0dGVyLXNwYWNpbmc9IjEuNSIgZmlsbD0iI2ZmZmZmZiI+Q09OVFJJQlVUSU9OIEdSQVBIPC90ZXh0Pgo8L3N2Zz4=" alt="Contribution Graph"/>
+<img src="assets/badges/contribution-graph.svg" alt="Contribution Graph"/>
 </p>
 
 <div align="center">
