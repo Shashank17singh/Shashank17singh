@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-<img src="assets/badges/tech-stack.svg" alt="Tech Stack"/>
+<img src="tech-stack.svg" alt="Tech Stack"/>
 </p>
 
 <div align="center">
@@ -67,14 +67,14 @@
 <br/>
 
 <p align="center">
-<img src="assets/badges/featured-projects.svg" alt="Featured Projects"/>
+<img src="featured-projects.svg" alt="Featured Projects"/>
 </p>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/VectorDB"><img src="assets/badges/vectordb.svg" alt="Your-Own-AI"/></a>
+#### <a href="https://github.com/Shashank17singh/VectorDB"><img src="vectordb.svg" alt="Your-Own-AI"/></a>
 
 Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
 
@@ -83,7 +83,7 @@ Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Resume-Parser"><img src="assets/badges/resume-parser.svg" alt="Resume Parser"/></a>
+#### <a href="https://github.com/Shashank17singh/Resume-Parser"><img src="resume-parser.svg" alt="Resume Parser"/></a>
 
 LLM-powered resume screener — parses resumes & job descriptions into structured data via Groq, then ranks candidates by fit
 
@@ -96,7 +96,7 @@ LLM-powered resume screener — parses resumes & job descriptions into structure
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Conversational-RAG-Chatbot"><img src="assets/badges/pdf-chatbot.svg" alt="PDF Chatbot with History"/></a>
+#### <a href="https://github.com/Shashank17singh/Conversational-RAG-Chatbot"><img src="pdf-chatbot.svg" alt="PDF Chatbot with History"/></a>
 
 Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
 
@@ -107,7 +107,7 @@ Conversational RAG app — upload a PDF and chat with it using LangChain, Groq a
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_API"><img src="assets/badges/bangalore-home-prices.svg" alt="Bangalore Home Prices"/></a>
+#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_API"><img src="bangalore-home-prices.svg" alt="Bangalore Home Prices"/></a>
 
 Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client
 
@@ -120,7 +120,7 @@ Full-stack price prediction suite for Bangalore real estate — Flask REST API +
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/CelebrityFaceRecognition"><img src="assets/badges/celebrity-face-recognition.svg" alt="Celebrity Face Recognition"/></a>
+#### <a href="https://github.com/Shashank17singh/CelebrityFaceRecognition"><img src="celebrity-face-recognition.svg" alt="Celebrity Face Recognition"/></a>
 
 ML pipeline that classifies celebrity faces from images, with a trained model and web UI
 
@@ -131,7 +131,7 @@ ML pipeline that classifies celebrity faces from images, with a trained model an
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/NIELIT-Project"><img src="assets/badges/house-price-predictor.svg" alt="House Price Predictor"/></a>
+#### <a href="https://github.com/Shashank17singh/NIELIT-Project"><img src="house-price-predictor.svg" alt="House Price Predictor"/></a>
 
 Desktop GUI app that predicts house prices from location, size and parking inputs — Linear Regression model trained with scikit-learn, wrapped in a Tkinter interface
 
@@ -146,7 +146,7 @@ Desktop GUI app that predicts house prices from location, size and parking input
 <br/>
 
 <p align="center">
-<img src="assets/badges/github-stats.svg" alt="GitHub Stats"/>
+<img src="github-stats.svg" alt="GitHub Stats"/>
 </p>
 
 <div align="center">
@@ -163,7 +163,7 @@ Desktop GUI app that predicts house prices from location, size and parking input
 <br/>
 
 <p align="center">
-<img src="assets/badges/contribution-graph.svg" alt="Contribution Graph"/>
+<img src="contribution-graph.svg" alt="Contribution Graph"/>
 </p>
 
 <div align="center">
