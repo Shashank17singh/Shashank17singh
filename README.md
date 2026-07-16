@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=Tech%20Stack&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjU5RTBCIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWdvbiBwb2ludHM9IjEzIDIgMyAxNCAxMiAxNCAxMSAyMiAyMSAxMCAxMiAxMCAxMyAyIi8%2BPC9zdmc%2BCg%3D%3D" height="42" alt="Tech Stack"/>
+<img src="https://img.shields.io/static/v1?label=&message=Tech%20Stack&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjU5RTBCIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWdvbiBwb2ludHM9IjEzIDIgMyAxNCAxMiAxNCAxMSAyMiAyMSAxMCAxMiAxMCAxMyAyIi8%2BPC9zdmc%2BCg%3D%3D" height="52" alt="Tech Stack"/>
 </p>
 
 <div align="center">
@@ -67,14 +67,14 @@
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=Featured%20Projects&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjJEM0VFIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDZsMiAyaDhhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY2YTIgMiAwIDAgMSAyLTJ6Ii8%2BPC9zdmc%2BCg%3D%3D" height="42" alt="Featured Projects"/>
+<img src="https://img.shields.io/static/v1?label=&message=Featured%20Projects&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMjJEM0VFIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDZsMiAyaDhhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAySDRhMiAyIDAgMCAxLTItMlY2YTIgMiAwIDAgMSAyLTJ6Ii8%2BPC9zdmc%2BCg%3D%3D" height="52" alt="Featured Projects"/>
 </p>
 
 <table align="center" width="100%">
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/VectorDB"><img src="https://img.shields.io/static/v1?label=&message=VectorDB&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNjM2NkYxIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djZjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTF2NmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zdi02Ii8%2BPC9zdmc%2BCg%3D%3D" height="42" alt="Your-Own-AI"/></a>
+#### <a href="https://github.com/Shashank17singh/VectorDB"><img src="https://img.shields.io/static/v1?label=&message=VectorDB&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjNjM2NkYxIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48ZWxsaXBzZSBjeD0iMTIiIGN5PSI1IiByeD0iOCIgcnk9IjMiLz48cGF0aCBkPSJNNCA1djZjMCAxLjcgMy42IDMgOCAzczgtMS4zIDgtM1Y1Ii8%2BPHBhdGggZD0iTTQgMTF2NmMwIDEuNyAzLjYgMyA4IDNzOC0xLjMgOC0zdi02Ii8%2BPC9zdmc%2BCg%3D%3D" height="52" alt="Your-Own-AI"/></a>
 
 Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
 
@@ -83,7 +83,7 @@ Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Resume-Parser"><img src="https://img.shields.io/static/v1?label=&message=Resume%20Parser&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTRCOEE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjh6Ii8%2BPHBhdGggZD0iTTE0IDJ2Nmg2Ii8%2BPHBhdGggZD0ibTkgMTUgMiAyIDQtNCIvPjwvc3ZnPgo%3D" height="42" alt="Resume Parser"/></a>
+#### <a href="https://github.com/Shashank17singh/Resume-Parser"><img src="https://img.shields.io/static/v1?label=&message=Resume%20Parser&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTRCOEE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMTQgMkg2YTIgMiAwIDAgMC0yIDJ2MTZhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0yVjh6Ii8%2BPHBhdGggZD0iTTE0IDJ2Nmg2Ii8%2BPHBhdGggZD0ibTkgMTUgMiAyIDQtNCIvPjwvc3ZnPgo%3D" height="52" alt="Resume Parser"/></a>
 
 LLM-powered resume screener — parses resumes & job descriptions into structured data via Groq, then ranks candidates by fit
 
@@ -96,7 +96,7 @@ LLM-powered resume screener — parses resumes & job descriptions into structure
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Conversational-RAG-Chatbot"><img src="https://img.shields.io/static/v1?label=&message=PDF%20Chatbot%20with%20History&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjM0I4MkY2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDE2djEySDhsLTQgNHoiLz48bGluZSB4MT0iNyIgeTE9IjgiIHgyPSIxNyIgeTI9IjgiLz48bGluZSB4MT0iNyIgeTE9IjEyIiB4Mj0iMTMiIHkyPSIxMiIvPjwvc3ZnPgo%3D" height="42" alt="PDF Chatbot with History"/></a>
+#### <a href="https://github.com/Shashank17singh/Conversational-RAG-Chatbot"><img src="https://img.shields.io/static/v1?label=&message=PDF%20Chatbot%20with%20History&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjM0I4MkY2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNNCA0aDE2djEySDhsLTQgNHoiLz48bGluZSB4MT0iNyIgeTE9IjgiIHgyPSIxNyIgeTI9IjgiLz48bGluZSB4MT0iNyIgeTE9IjEyIiB4Mj0iMTMiIHkyPSIxMiIvPjwvc3ZnPgo%3D" height="52" alt="PDF Chatbot with History"/></a>
 
 Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
 
@@ -107,7 +107,7 @@ Conversational RAG app — upload a PDF and chat with it using LangChain, Groq a
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_API"><img src="https://img.shields.io/static/v1?label=&message=Bangalore%20Home%20Prices&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjk3MzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPC9zdmc%2BCg%3D%3D" height="42" alt="Bangalore Home Prices"/></a>
+#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_API"><img src="https://img.shields.io/static/v1?label=&message=Bangalore%20Home%20Prices&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjk3MzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPC9zdmc%2BCg%3D%3D" height="52" alt="Bangalore Home Prices"/></a>
 
 Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client
 
@@ -120,7 +120,7 @@ Full-stack price prediction suite for Bangalore real estate — Flask REST API +
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/CelebrityFaceRecognition"><img src="https://img.shields.io/static/v1?label=&message=Celebrity%20Face%20Recognition&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRUM0ODk5IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyA3VjVhMiAyIDAgMCAxIDItMmgyIi8%2BPHBhdGggZD0iTTE3IDNoMmEyIDIgMCAwIDEgMiAydjIiLz48cGF0aCBkPSJNMjEgMTd2MmEyIDIgMCAwIDEtMiAyaC0yIi8%2BPHBhdGggZD0iTTcgMjFINWEyIDIgMCAwIDEtMi0ydi0yIi8%2BPGNpcmNsZSBjeD0iOSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiNFQzQ4OTkiLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiNFQzQ4OTkiLz48cGF0aCBkPSJNOSAxNWMuNiAxIDEuNiAxLjUgMyAxLjVzMi40LS41IDMtMS41Ii8%2BPC9zdmc%2BCg%3D%3D" height="42" alt="Celebrity Face Recognition"/></a>
+#### <a href="https://github.com/Shashank17singh/CelebrityFaceRecognition"><img src="https://img.shields.io/static/v1?label=&message=Celebrity%20Face%20Recognition&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRUM0ODk5IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyA3VjVhMiAyIDAgMCAxIDItMmgyIi8%2BPHBhdGggZD0iTTE3IDNoMmEyIDIgMCAwIDEgMiAydjIiLz48cGF0aCBkPSJNMjEgMTd2MmEyIDIgMCAwIDEtMiAyaC0yIi8%2BPHBhdGggZD0iTTcgMjFINWEyIDIgMCAwIDEtMi0ydi0yIi8%2BPGNpcmNsZSBjeD0iOSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiNFQzQ4OTkiLz48Y2lyY2xlIGN4PSIxNSIgY3k9IjEwIiByPSIwLjYiIGZpbGw9IiNFQzQ4OTkiLz48cGF0aCBkPSJNOSAxNWMuNiAxIDEuNiAxLjUgMyAxLjVzMi40LS41IDMtMS41Ii8%2BPC9zdmc%2BCg%3D%3D" height="52" alt="Celebrity Face Recognition"/></a>
 
 ML pipeline that classifies celebrity faces from images, with a trained model and web UI
 
@@ -131,7 +131,7 @@ ML pipeline that classifies celebrity faces from images, with a trained model an
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/NIELIT-Project"><img src="https://img.shields.io/static/v1?label=&message=House%20Price%20Predictor&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjODRDQzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPGxpbmUgeDE9IjkiIHkxPSI2LjUiIHgyPSI5IiB5Mj0iMyIvPjxsaW5lIHgxPSIxNSIgeTE9IjYuNSIgeDI9IjE1IiB5Mj0iMyIvPjwvc3ZnPgo%3D" height="42" alt="House Price Predictor"/></a>
+#### <a href="https://github.com/Shashank17singh/NIELIT-Project"><img src="https://img.shields.io/static/v1?label=&message=House%20Price%20Predictor&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjODRDQzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPGxpbmUgeDE9IjkiIHkxPSI2LjUiIHgyPSI5IiB5Mj0iMyIvPjxsaW5lIHgxPSIxNSIgeTE9IjYuNSIgeDI9IjE1IiB5Mj0iMyIvPjwvc3ZnPgo%3D" height="52" alt="House Price Predictor"/></a>
 
 Desktop GUI app that predicts house prices from location, size and parking inputs — Linear Regression model trained with scikit-learn, wrapped in a Tkinter interface
 
@@ -146,7 +146,7 @@ Desktop GUI app that predicts house prices from location, size and parking input
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=GitHub%20Stats&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTBCOTgxIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iMTIiIHkxPSIyMCIgeDI9IjEyIiB5Mj0iMTAiLz48bGluZSB4MT0iMTgiIHkxPSIyMCIgeDI9IjE4IiB5Mj0iNCIvPjxsaW5lIHgxPSI2IiB5MT0iMjAiIHgyPSI2IiB5Mj0iMTYiLz48L3N2Zz4K" height="42" alt="GitHub Stats"/>
+<img src="https://img.shields.io/static/v1?label=&message=GitHub%20Stats&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMTBCOTgxIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48bGluZSB4MT0iMTIiIHkxPSIyMCIgeDI9IjEyIiB5Mj0iMTAiLz48bGluZSB4MT0iMTgiIHkxPSIyMCIgeDI9IjE4IiB5Mj0iNCIvPjxsaW5lIHgxPSI2IiB5MT0iMjAiIHgyPSI2IiB5Mj0iMTYiLz48L3N2Zz4K" height="52" alt="GitHub Stats"/>
 </p>
 
 <div align="center">
@@ -163,7 +163,7 @@ Desktop GUI app that predicts house prices from location, size and parking input
 <br/>
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=&message=Contribution%20Graph&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjQzRjVFIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSIyMiAxMiAxOCAxMiAxNSAyMSA5IDMgNiAxMiAyIDEyIi8%2BPC9zdmc%2BCg%3D%3D" height="42" alt="Contribution Graph"/>
+<img src="https://img.shields.io/static/v1?label=&message=Contribution%20Graph&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRjQzRjVFIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cG9seWxpbmUgcG9pbnRzPSIyMiAxMiAxOCAxMiAxNSAyMSA5IDMgNiAxMiAyIDEyIi8%2BPC9zdmc%2BCg%3D%3D" height="52" alt="Contribution Graph"/>
 </p>
 
 <div align="center">
