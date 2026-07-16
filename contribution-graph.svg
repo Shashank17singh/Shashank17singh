@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="381" height="56" viewBox="0 0 381 56">
+<rect x="0" y="0" width="381" height="56" rx="8" fill="#1a1a2e"/>
+<g transform="translate(18,15.0) scale(1.0833)" fill="none" stroke="#F43F5E" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<polyline points="22 12 18 12 15 21 9 3 6 12 2 12"/>
+</g>
+<text x="72" y="35.0" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="20" font-weight="bold" letter-spacing="1.5" fill="#ffffff">CONTRIBUTION GRAPH</text>
+</svg>
