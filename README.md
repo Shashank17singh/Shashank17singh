@@ -131,6 +131,14 @@ ML pipeline that classifies celebrity faces from images, with a trained model an
 </td>
 <td width="50%" valign="top">
 
+#### <a href="https://github.com/Shashank17singh/NIELIT-Project"><img src="https://img.shields.io/static/v1?label=&message=House%20Price%20Predictor&color=1a1a2e&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjODRDQzE2IiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNMyAxMGw5LTcgOSA3Ii8%2BPHBhdGggZD0iTTUgOXYxMGExIDEgMCAwIDAgMSAxaDR2LTZoNHY2aDRhMSAxIDAgMCAwIDEtMVY5Ii8%2BPGxpbmUgeDE9IjkiIHkxPSI2LjUiIHgyPSI5IiB5Mj0iMyIvPjxsaW5lIHgxPSIxNSIgeTE9IjYuNSIgeDI9IjE1IiB5Mj0iMyIvPjwvc3ZnPgo%3D" alt="House Price Predictor"/></a>
+
+Desktop GUI app that predicts house prices from location, size and parking inputs — Linear Regression model trained with scikit-learn, wrapped in a Tkinter interface
+
+<img src="https://skillicons.dev/icons?i=python" height="24" alt="tech"/>&nbsp;<img src="https://img.shields.io/badge/Tkinter-306998?style=flat&logoColor=white" height="24" alt="Tkinter"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
+
+<a href="https://nielit-project.streamlit.app/">🔗 Live demo</a>
+
 </td>
 </tr>
 </table>
