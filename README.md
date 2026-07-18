@@ -108,7 +108,7 @@ A full-stack ML ecosystem predicting home prices with a production REST API (Fla
 
 #### [📡 UPI Mesh — Offline Payments](https://github.com/Shashank17singh/UPI_Mesh)
 
-A payment backend settling UPI-style transactions with zero internet — hybrid RSA/AES-GCM encryption, a Bluetooth mesh simulator, and idempotent settlement via FastAPI. [**Live Demo**](https://home-prices-api.duckdns.org/upi/)
+A payment backend settling UPI-style transactions with zero internet — hybrid RSA/AES-GCM encryption, a Bluetooth mesh simulator, and idempotent settlement via FastAPI. [**Live Demo**](https://upi-mesh.duckdns.org/)
 
 <img src="https://skillicons.dev/icons?i=py,fastapi,sqlite" height="24" alt="tech"/>
 
