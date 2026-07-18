@@ -74,7 +74,7 @@
 <tr>
 <td width="50%" valign="top">
 
-#### [🧠 VectorDB — Vector Database from Scratch](https://github.com/Shashank17singh/VectorDB)
+#### [🧠 Your-Own-AI — Vector Database from Scratch](https://github.com/Shashank17singh/Your-Own-AI)
 
 A fully working vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search, plus a local RAG pipeline powered by Ollama, with a benchmark harness
 
@@ -85,7 +85,7 @@ A fully working vector database built from scratch in C++ — HNSW, KD-Tree & br
 
 #### [🩺 Medbot-RAG — Medical Symptom Assistant](https://github.com/Shashank17singh/Medbot-RAG)
 
-A retrieval-augmented assistant that answers general health questions grounded in a curated corpus, with rule-based emergency triage sitting in front of it — a companion project to VectorDB, applying the same retrieval concepts with hnswlib's HNSW index
+A retrieval-augmented assistant that answers general health questions grounded in a curated corpus, with rule-based emergency triage sitting in front of it — a companion project to Your-Own-AI, applying the same retrieval concepts with hnswlib's HNSW index
 
 <img src="https://skillicons.dev/icons?i=py" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
 
@@ -94,7 +94,7 @@ A retrieval-augmented assistant that answers general health questions grounded i
 <tr>
 <td width="50%" valign="top">
 
-#### [📡 Packet-Analyzer — Deep Packet Inspection System](https://github.com/Shashank17singh/Packet-Analyzer)
+#### [📡 DPI Engine — Deep Packet Inspection System](https://github.com/Shashank17singh/DPI-Engine)
 
 A C++17 packet analyzer that reads PCAP captures, reconstructs TCP/UDP flows, classifies traffic by application via TLS SNI / HTTP Host inspection, and selectively blocks traffic by app, IP, or domain — with single-threaded and multi-threaded (load-balancer + fast-path) implementations
 
