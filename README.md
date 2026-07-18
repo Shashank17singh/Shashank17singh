@@ -42,7 +42,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=10B981&center=true&vCenter=true&width=200&height=26&lines=Data+%26+Tooling&repeat=false" height="34"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=py,postman" alt="tooling"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" alt="tooling"/>&nbsp;
 <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy"/>&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" alt="Pandas"/>&nbsp;
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn"/>&nbsp;
