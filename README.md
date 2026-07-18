@@ -112,6 +112,46 @@ A payment backend that settles UPI-style transactions with zero internet — hyb
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [📄 AI Resume Screener](https://github.com/Shashank17singh/Resume-Parser)
+
+An LLM-powered pipeline that parses resumes and job descriptions into structured data, then ranks candidates by fit — built with Streamlit and Groq.
+
+<img src="https://skillicons.dev/icons?i=py" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>&nbsp;<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/groq.svg" height="24" alt="Groq"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### [💬 Conversational RAG Chatbot](https://github.com/Shashank17singh/Conversational-RAG-Chatbot)
+
+A multi-turn chat app where users can upload PDFs and chat with their content — powered by LangChain, ChromaDB, and Groq's Llama 3.3.
+
+<img src="https://skillicons.dev/icons?i=py" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="24" alt="LangChain"/>&nbsp;<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logoColor=white" height="24" alt="ChromaDB"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [🏃 Sports Person Classifier](https://github.com/Shashank17singh/Sports-Person-Classifier)
+
+An image classification system using OpenCV Haar Cascades and SVM/Random Forest models to detect and identify sports personalities, deployed via a Flask REST API.
+
+<img src="https://skillicons.dev/icons?i=py,opencv,flask" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### [🏠 Home Price Suite](https://github.com/Shashank17singh/Home-Prices-API)
+
+A full-stack ML ecosystem predicting home prices with a production REST API (Flask+Nginx) and a standalone desktop GUI.
+
+<img src="https://skillicons.dev/icons?i=py,flask,nginx" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
+
+</td>
+</tr>
 </table>
 
 <br/>
