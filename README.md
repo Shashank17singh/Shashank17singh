@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=140&text=Shashank%20Singh&fontSize=34&fontColor=A855F7&fontAlignY=35&fontFamily=Trebuchet%20MS&animation=fadeIn" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=600&lines=Building+RAG+Pipelines+%26+Vector+Search;Training+Computer+Vision+Models;Engineering+AI+Systems+from+Scratch" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=Building+RAG+Pipelines+%26+Vector+Databases;Engineering+Low-Level+Systems+in+C%2B%2B;Designing+Secure+Fintech+Backends;Crafting+AI+Solutions+from+Scratch" alt="typing"/>
 
 <br/>
 
@@ -30,13 +30,13 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=F59E0B&center=true&vCenter=true&width=220&height=26&lines=Languages+%26+Core&repeat=false" height="34"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=cpp,py,js,html,css,git,linux" alt="languages"/>
 
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=22D3EE&center=true&vCenter=true&width=200&height=26&lines=Backend+%26+ML&repeat=false" height="34"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nginx,opencv,mysql" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nginx,opencv,docker,sqlite" alt="backend"/>
 
 <br/><br/>
 
@@ -46,6 +46,7 @@
 <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="NumPy"/>&nbsp;
 <img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" alt="Pandas"/>&nbsp;
 <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn"/>&nbsp;
+<img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" height="40" alt="PyTorch"/>&nbsp;
 <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="40" height="40" alt="SciPy"/>&nbsp;
 <img src="https://cdn.simpleicons.org/jupyter/F37626" width="40" height="40" alt="Jupyter"/>
 
@@ -56,10 +57,10 @@
 <img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40" alt="LangChain"/>&nbsp;
 <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="40" height="40" alt="HuggingFace"/>&nbsp;
 <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="40" height="40" alt="Streamlit"/>&nbsp;
-<img src="https://cdn.simpleicons.org/jquery/0769AD" width="40" height="40" alt="jQuery"/>&nbsp;
 <img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/groq.svg" width="40" height="40" alt="Groq"/>&nbsp;
 <img src="https://cdn.simpleicons.org/ollama/000000" width="40" height="40" alt="Ollama"/>&nbsp;
 <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logoColor=white" height="40" alt="ChromaDB"/>&nbsp;
+<img src="https://img.shields.io/badge/hnswlib-6366F1?style=flat&logoColor=white" height="40" alt="hnswlib"/>&nbsp;
 <img src="https://img.shields.io/badge/Tkinter-306998?style=flat&logoColor=white" height="40" alt="Tkinter"/>
 
 </div>
