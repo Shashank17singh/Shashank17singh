@@ -106,11 +106,11 @@ A full-stack ML ecosystem predicting home prices with a production REST API (Fla
 </td>
 <td width="50%" valign="top">
 
-#### [🩺 Medbot-RAG — Medical Symptom Assistant](https://github.com/Shashank17singh/Medbot-RAG)
+#### [📡 UPI Mesh — Offline Payments](https://github.com/Shashank17singh/UPI_Mesh)
 
-A retrieval-augmented assistant that answers general health questions grounded in a curated corpus, with rule-based emergency triage sitting in front of it — a companion project to Your-Own-AI, applying the same retrieval concepts with hnswlib's HNSW index. [**Live Demo**](https://medbot-rag.streamlit.app/)
+A payment backend settling UPI-style transactions with zero internet — hybrid RSA/AES-GCM encryption, a Bluetooth mesh simulator, and idempotent settlement via FastAPI. [**Live Demo**](https://home-prices-api.duckdns.org/upi/)
 
-<img src="https://skillicons.dev/icons?i=py" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,sqlite" height="24" alt="tech"/>
 
 </td>
 </tr>
