@@ -108,7 +108,7 @@ A C++17 packet analyzer that reads PCAP captures, reconstructs TCP/UDP flows, cl
 
 A full-stack ML ecosystem predicting home prices with a production REST API (Flask+Nginx) and a standalone Tkinter desktop GUI — automated via GitHub Actions CI/CD to AWS EC2. [**Live Demo**](https://home-prices-api.duckdns.org)
 
-<img src="https://skillicons.dev/icons?i=py,flask,nginx,aws,githubactions" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=py,flask,nginx,docker,aws,githubactions" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
 
 </td>
 <td width="50%" valign="top">
@@ -117,7 +117,7 @@ A full-stack ML ecosystem predicting home prices with a production REST API (Fla
 
 A payment backend settling UPI-style transactions with zero internet — hybrid RSA/AES-GCM encryption, a Bluetooth mesh simulator, and idempotent settlement via FastAPI. [**Live Demo**](https://upi-mesh.duckdns.org/)
 
-<img src="https://skillicons.dev/icons?i=py,fastapi,sqlite" height="24" alt="tech"/>
+<img src="https://skillicons.dev/icons?i=py,fastapi,sqlite,docker,nginx,aws,githubactions" height="24" alt="tech"/>
 
 </td>
 </tr>
