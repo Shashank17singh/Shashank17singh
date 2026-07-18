@@ -8,12 +8,7 @@
 
 <a href="https://linkedin.com/in/shashank17singh"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="30" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://x.com/Shashank_017"><img src="https://cdn.simpleicons.org/x/ffffff" width="30" height="30" alt="X"/></a>&nbsp;&nbsp;
-<a href="https://instagram.com/shashank.17singh"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="30" height="30" alt="Instagram"/></a>&nbsp;&nbsp;
 <a href="mailto:shashanksingh1709@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="30" height="30" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="https://discord.gg/F82y2p7sp"><img src="https://cdn.simpleicons.org/discord/5865F2" width="30" height="30" alt="Discord"/></a>&nbsp;&nbsp;
-<a href="https://reddit.com/user/u/Ok-Jelly-6146"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="30" height="30" alt="Reddit"/></a>&nbsp;&nbsp;
-<a href="https://pinterest.com/shashank17singh"><img src="https://cdn.simpleicons.org/pinterest/BD081C" width="30" height="30" alt="Pinterest"/></a>&nbsp;&nbsp;
-<a href="https://quora.com/profile/Shashank-Singh-1352"><img src="https://cdn.simpleicons.org/quora/B92B27" width="30" height="30" alt="Quora"/></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@Shashank17Singh"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" height="30" alt="YouTube"/></a>
 <br/>
 <br/>
