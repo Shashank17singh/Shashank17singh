@@ -9,21 +9,14 @@
 <a href="https://linkedin.com/in/shashank17singh"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="30" height="30" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://x.com/Shashank_017"><img src="https://cdn.simpleicons.org/x/ffffff" width="30" height="30" alt="X"/></a>&nbsp;&nbsp;
 <a href="mailto:shashanksingh1709@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="30" height="30" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="https://youtube.com/@Shashank17Singh"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" height="30" alt="YouTube"/></a>&nbsp;&nbsp;
-<a href="https://discord.gg/F82y2p7sp"><img src="https://cdn.simpleicons.org/discord/5865F2" width="30" height="30" alt="Discord"/></a>&nbsp;&nbsp;
-<a href="https://reddit.com/user/u/Ok-Jelly-6146"><img src="https://cdn.simpleicons.org/reddit/FF4500" width="30" height="30" alt="Reddit"/></a>&nbsp;&nbsp;
-<a href="https://quora.com/profile/Shashank-Singh-1352"><img src="https://cdn.simpleicons.org/quora/B92B27" width="30" height="30" alt="Quora"/></a>&nbsp;&nbsp;
-<a href="https://pinterest.com/shashank17singh"><img src="https://cdn.simpleicons.org/pinterest/E60023" width="30" height="30" alt="Pinterest"/></a>
+<a href="https://youtube.com/@Shashank17Singh"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" height="30" alt="YouTube"/></a>
 <br/>
 <br/>
 <a href="https://leetcode.com/u/Shashank17singh/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" alt="LeetCode"/></a>&nbsp;&nbsp;
 <a href="https://codeforces.com/profile/shashank17singh"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="30" height="30" alt="Codeforces"/></a>&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/Shashank7Singh"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="30" height="30" alt="CodeChef"/></a>&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/Shashank17Singh"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="30" height="30" alt="GeeksForGeeks"/></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/shashanksingh172"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="30" height="30" alt="HackerRank"/></a>&nbsp;&nbsp;
-<a href="https://www.interviewbit.com/profile/shashank-singh_401"><img src="https://cdn.simpleicons.org/interviewbit/46A29F" width="30" height="30" alt="InterviewBit"/></a>&nbsp;&nbsp;
-<a href="https://www.naukri.com/code360/profile/66d93f30-c8d5-4bf2-b875-84ca0e8ac742"><img src="https://img.shields.io/badge/-CodeStudio-E34F26?style=flat&logoColor=white" height="30" alt="CodeStudio"/></a>&nbsp;&nbsp;
-<a href="https://atcoder.jp/users/shashank17singh"><img src="https://cdn.simpleicons.org/atcoder/221E68" width="30" height="30" alt="AtCoder"/></a>
+<a href="https://www.hackerrank.com/profile/shashanksingh172"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="30" height="30" alt="HackerRank"/></a>
 
 <br/>
 
