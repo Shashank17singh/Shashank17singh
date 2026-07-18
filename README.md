@@ -74,70 +74,40 @@
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/VectorDB"><img src="vectordb.svg" alt="Your-Own-AI"/></a>
+#### [🧠 Your-Own-AI — Vector Database from Scratch](https://github.com/Shashank17singh/Your-Own-AI)
 
-Vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search with a local RAG pipeline via Ollama
+A fully working vector database built from scratch in C++ — HNSW, KD-Tree & brute-force search, plus a local RAG pipeline powered by Ollama, with a benchmark harness
 
-<img src="https://skillicons.dev/icons?i=cpp,html" height="24" alt="tech"/>
+<img src="https://skillicons.dev/icons?i=cpp,html" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/ollama/000000" height="24" alt="Ollama"/>
 
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Resume-Parser"><img src="resume-parser.svg" alt="Resume Parser"/></a>
+#### [🩺 Medbot-RAG — Medical Symptom Assistant](https://github.com/Shashank17singh/Medbot-RAG)
 
-LLM-powered resume screener — parses resumes & job descriptions into structured data via Groq, then ranks candidates by fit
+A retrieval-augmented assistant that answers general health questions grounded in a curated corpus, with rule-based emergency triage sitting in front of it — a companion project to Your-Own-AI, applying the same retrieval concepts with hnswlib's HNSW index
 
-<img src="https://cdn.simpleicons.org/python/3776AB" width="24" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="24" height="24" alt="Streamlit"/>&nbsp;<img src="https://img.shields.io/badge/Groq-F55036?style=flat&logoColor=white" height="24" alt="Groq"/>
-
-<a href="https://resume-parsers.streamlit.app/">🔗 Live demo</a>
+<img src="https://skillicons.dev/icons?i=py" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Conversational-RAG-Chatbot"><img src="pdf-chatbot.svg" alt="PDF Chatbot with History"/></a>
+#### [📡 DPI Engine — Deep Packet Inspection System](https://github.com/Shashank17singh/Packet_analyzer)
 
-Conversational RAG app — upload a PDF and chat with it using LangChain, Groq and ChromaDB
+A C++17 packet analyzer that reads PCAP captures, reconstructs TCP/UDP flows, classifies traffic by application via TLS SNI / HTTP Host inspection, and selectively blocks traffic by app, IP, or domain — with single-threaded and multi-threaded (load-balancer + fast-path) implementations
 
-<img src="https://skillicons.dev/icons?i=python" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="24" alt="LangChain"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>
-
-<a href="https://conversational-rag-chatbot-pdf.streamlit.app/">🔗 Live demo</a>
+<img src="https://skillicons.dev/icons?i=cpp" height="24" alt="C++"/>
 
 </td>
 <td width="50%" valign="top">
 
-#### <a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_API"><img src="bangalore-home-prices.svg" alt="Bangalore Home Prices"/></a>
+#### [📡 UPI_Mesh — Offline-First Payments over a Bluetooth Mesh](https://github.com/Shashank17singh/UPI_Mesh)
 
-Full-stack price prediction suite for Bangalore real estate — Flask REST API + Nginx reverse proxy, plus a standalone Tkinter desktop client
+A payment backend that settles UPI-style transactions with zero internet — hybrid RSA/AES-GCM encryption, a Bluetooth mesh simulator, and idempotent settlement, served through a FastAPI dashboard
 
-<img src="https://skillicons.dev/icons?i=python,flask,nginx" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
-
-<a href="https://github.com/Shashank17singh/Bangalore_Home_Prices_Desktop_Client">🖥️ Desktop client repo</a> · <a href="http://3.85.41.35/">🔗 Live API</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/Shashank17singh/CelebrityFaceRecognition"><img src="celebrity-face-recognition.svg" alt="Celebrity Face Recognition"/></a>
-
-ML pipeline that classifies celebrity faces from images, with a trained model and web UI
-
-<img src="https://skillicons.dev/icons?i=python,opencv,flask" height="24" alt="tech"/>
-
-<a href="https://celebrity-face-recognition-xi.vercel.app/">🔗 Live demo</a>
-
-</td>
-<td width="50%" valign="top">
-
-#### <a href="https://github.com/Shashank17singh/NIELIT-Project"><img src="house-price-predictor.svg" alt="House Price Predictor"/></a>
-
-Desktop GUI app that predicts house prices from location, size and parking inputs — Linear Regression model trained with scikit-learn, wrapped in a Tkinter interface
-
-<img src="https://skillicons.dev/icons?i=python" height="24" alt="tech"/>&nbsp;<img src="https://img.shields.io/badge/Tkinter-306998?style=flat&logoColor=white" height="24" alt="Tkinter"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
-
-<a href="https://nielit-project.streamlit.app/">🔗 Live demo</a>
+<img src="https://skillicons.dev/icons?i=py,fastapi" height="24" alt="tech"/>
 
 </td>
 </tr>
