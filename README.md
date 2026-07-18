@@ -16,7 +16,7 @@
 <a href="https://codeforces.com/profile/shashank17singh"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="30" height="30" alt="Codeforces"/></a>&nbsp;&nbsp;
 <a href="https://www.codechef.com/users/Shashank7Singh"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="30" height="30" alt="CodeChef"/></a>&nbsp;&nbsp;
 <a href="https://www.geeksforgeeks.org/user/Shashank17Singh"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="30" height="30" alt="GeeksForGeeks"/></a>&nbsp;&nbsp;
-<a href="https://www.hackerrank.com/profile/shashanksingh172"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="30" height="30" alt="HackerRank"/></a>
+<a href="https://www.hackerrank.com/profile/shashanksingh172"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="30" height="30" alt="HackerRank"/></a>
 
 <br/>
 
