@@ -38,7 +38,7 @@
 
 <img src="https://readme-typing-svg.demolab.com/?font=Space+Grotesk&weight=600&size=20&duration=1&pause=100000&color=22D3EE&center=true&vCenter=true&width=200&height=26&lines=Backend+%26+ML&repeat=false" height="34"/>
 <br/>
-<img src="https://skillicons.dev/icons?i=flask,fastapi,nginx,opencv,docker,sqlite" alt="backend"/>
+<img src="https://skillicons.dev/icons?i=flask,fastapi,nginx,opencv,docker,sqlite,aws,githubactions" alt="backend"/>
 
 <br/><br/>
 
