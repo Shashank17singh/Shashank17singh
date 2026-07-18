@@ -84,17 +84,6 @@ A fully working vector database built from scratch in C++ — HNSW, KD-Tree & br
 </td>
 <td width="50%" valign="top">
 
-#### [🩺 Medbot-RAG — Medical Symptom Assistant](https://github.com/Shashank17singh/Medbot-RAG)
-
-A retrieval-augmented assistant that answers general health questions grounded in a curated corpus, with rule-based emergency triage sitting in front of it — a companion project to Your-Own-AI, applying the same retrieval concepts with hnswlib's HNSW index
-
-<img src="https://skillicons.dev/icons?i=py" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### [📡 DPI Engine — Deep Packet Inspection System](https://github.com/Shashank17singh/DPI-Engine)
 
 A C++17 packet analyzer that reads PCAP captures, reconstructs TCP/UDP flows, classifies traffic by application via TLS SNI / HTTP Host inspection, and selectively blocks traffic by app, IP, or domain — with single-threaded and multi-threaded (load-balancer + fast-path) implementations
@@ -102,53 +91,24 @@ A C++17 packet analyzer that reads PCAP captures, reconstructs TCP/UDP flows, cl
 <img src="https://skillicons.dev/icons?i=cpp" height="24" alt="C++"/>
 
 </td>
-<td width="50%" valign="top">
-
-#### [📡 UPI_Mesh — Offline-First Payments over a Bluetooth Mesh](https://github.com/Shashank17singh/UPI_Mesh)
-
-A payment backend that settles UPI-style transactions with zero internet — hybrid RSA/AES-GCM encryption, a Bluetooth mesh simulator, and idempotent settlement, served through a FastAPI dashboard
-
-<img src="https://skillicons.dev/icons?i=py,fastapi" height="24" alt="tech"/>
-
-</td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-#### [📄 AI Resume Screener](https://github.com/Shashank17singh/Resume-Parser)
-
-An LLM-powered pipeline that parses resumes and job descriptions into structured data, then ranks candidates by fit — built with Streamlit and Groq.
-
-<img src="https://skillicons.dev/icons?i=py" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>&nbsp;<img src="https://unpkg.com/@lobehub/icons-static-svg@latest/icons/groq.svg" height="24" alt="Groq"/>
-
-</td>
-<td width="50%" valign="top">
-
-#### [💬 Conversational RAG Chatbot](https://github.com/Shashank17singh/Conversational-RAG-Chatbot)
-
-A multi-turn chat app where users can upload PDFs and chat with their content — powered by LangChain, ChromaDB, and Groq's Llama 3.3.
-
-<img src="https://skillicons.dev/icons?i=py" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="24" alt="LangChain"/>&nbsp;<img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat&logoColor=white" height="24" alt="ChromaDB"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### [🏃 Sports Person Classifier](https://github.com/Shashank17singh/Sports-Person-Classifier)
-
-An image classification system using OpenCV Haar Cascades and SVM/Random Forest models to detect and identify sports personalities, deployed via a Flask REST API.
-
-<img src="https://skillicons.dev/icons?i=py,opencv,flask" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
-
-</td>
 <td width="50%" valign="top">
 
 #### [🏠 Home Price Suite](https://github.com/Shashank17singh/Home-Prices-API)
 
-A full-stack ML ecosystem predicting home prices with a production REST API (Flask+Nginx) and a standalone desktop GUI.
+A full-stack ML ecosystem predicting home prices with a production REST API (Flask+Nginx) and a standalone Tkinter desktop GUI — automated via GitHub Actions CI/CD to AWS EC2.
 
-<img src="https://skillicons.dev/icons?i=py,flask,nginx" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
+<img src="https://skillicons.dev/icons?i=py,flask,nginx,aws,githubactions" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### [🩺 Medbot-RAG — Medical Symptom Assistant](https://github.com/Shashank17singh/Medbot-RAG)
+
+A retrieval-augmented assistant that answers general health questions grounded in a curated corpus, with rule-based emergency triage sitting in front of it — a companion project to Your-Own-AI, applying the same retrieval concepts with hnswlib's HNSW index
+
+<img src="https://skillicons.dev/icons?i=py" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
 
 </td>
 </tr>
