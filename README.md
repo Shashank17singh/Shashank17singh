@@ -113,7 +113,7 @@ A full-stack ML ecosystem predicting home prices with a production REST API (Fla
 
 #### [🩺 Medbot-RAG — Medical Symptom Assistant](https://github.com/Shashank17singh/Medbot-RAG)
 
-A retrieval-augmented assistant that answers general health questions grounded in a curated corpus, with rule-based emergency triage sitting in front of it — a companion project to Your-Own-AI, applying the same retrieval concepts with hnswlib's HNSW index
+A retrieval-augmented assistant that answers general health questions grounded in a curated corpus, with rule-based emergency triage sitting in front of it — a companion project to Your-Own-AI, applying the same retrieval concepts with hnswlib's HNSW index. [**Live Demo**](https://medbot-rag.streamlit.app/)
 
 <img src="https://skillicons.dev/icons?i=py" height="24" alt="Python"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
 
