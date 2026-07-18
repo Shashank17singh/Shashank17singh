@@ -15,6 +15,13 @@
 <a href="https://pinterest.com/shashank17singh"><img src="https://cdn.simpleicons.org/pinterest/BD081C" width="30" height="30" alt="Pinterest"/></a>&nbsp;&nbsp;
 <a href="https://quora.com/profile/Shashank-Singh-1352"><img src="https://cdn.simpleicons.org/quora/B92B27" width="30" height="30" alt="Quora"/></a>&nbsp;&nbsp;
 <a href="https://youtube.com/@Shashank17Singh"><img src="https://cdn.simpleicons.org/youtube/FF0000" width="30" height="30" alt="YouTube"/></a>
+<br/>
+<br/>
+<a href="https://leetcode.com/u/Shashank17singh/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="30" height="30" alt="LeetCode"/></a>&nbsp;&nbsp;
+<a href="https://codeforces.com/profile/shashank17singh"><img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="30" height="30" alt="Codeforces"/></a>&nbsp;&nbsp;
+<a href="https://www.codechef.com/users/Shashank7Singh"><img src="https://cdn.simpleicons.org/codechef/5B4638" width="30" height="30" alt="CodeChef"/></a>&nbsp;&nbsp;
+<a href="https://www.geeksforgeeks.org/user/Shashank17Singh"><img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="30" height="30" alt="GeeksForGeeks"/></a>&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/profile/shashanksingh172"><img src="https://cdn.simpleicons.org/hackerrank/00EA64" width="30" height="30" alt="HackerRank"/></a>
 
 <br/>
 
