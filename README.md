@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=140&text=Shashank%20Singh&fontSize=34&fontColor=A855F7&fontAlignY=35&fontFamily=Trebuchet%20MS&animation=fadeIn" width="100%" alt="header"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer;RAG+%26+Vector+Search+Builder;C%2B%2B+Systems+Engineer;LLM+Post-Training+%26+RLHF" alt="typing"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=20&duration=2600&pause=800&color=A855F7&center=true&vCenter=true&width=650&lines=AI+%26+ML+Engineer;Generative+AI+%26+RAG+Developer;C%2B%2B+Systems+%26+Network+Engineer;Full-Stack+ML+Deployment" alt="typing"/>
 
 <br/>
 
