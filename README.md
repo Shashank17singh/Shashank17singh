@@ -114,6 +114,26 @@ A payment backend settling UPI-style transactions with zero internet — hybrid 
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [🏠 House Price Predictor](https://github.com/Shashank17singh/NIELIT-Project)
+
+A desktop GUI app that predicts house prices using a Linear Regression model built with Python, Tkinter, and scikit-learn.
+
+<img src="https://skillicons.dev/icons?i=py" height="24" alt="tech"/>&nbsp;<img src="https://img.shields.io/badge/Tkinter-306998?style=flat&logoColor=white" height="24" alt="Tkinter"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### [🏋️ Posture Checker — AI Physiotherapy](https://github.com/Shashank17singh/SIC-Project)
+
+Real-time exercise form feedback using MediaPipe pose estimation. Converts landmarks into joint angles to count reps and flag errors. [**Live Demo**](https://sic-project.streamlit.app/)
+
+<img src="https://skillicons.dev/icons?i=py,opencv" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/streamlit/FF4B4B" height="24" alt="Streamlit"/>
+
+</td>
+</tr>
 </table>
 
 <br/>
