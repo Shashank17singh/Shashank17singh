@@ -119,7 +119,7 @@ A payment backend settling UPI-style transactions with zero internet — hybrid 
 
 #### [🏠 House Price Predictor](https://github.com/Shashank17singh/NIELIT-Project)
 
-A desktop GUI app that predicts house prices using a Linear Regression model built with Python, Tkinter, and scikit-learn.
+A desktop GUI app that predicts house prices using a Linear Regression model built with Python, Tkinter, and scikit-learn. [**Live Demo**](https://nielit-project.streamlit.app/)
 
 <img src="https://skillicons.dev/icons?i=py" height="24" alt="tech"/>&nbsp;<img src="https://img.shields.io/badge/Tkinter-306998?style=flat&logoColor=white" height="24" alt="Tkinter"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
 
