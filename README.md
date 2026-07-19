@@ -9,8 +9,7 @@
 <a href="https://codolio.com/profile/Shashank17singh"><img src="https://img.shields.io/badge/Codolio-07080c?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/></a>
   <a href="https://linkedin.com/in/shashank17singh"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="28" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://shashank17singh.github.io/"><img src="https://api.iconify.design/simple-icons:googlechrome.svg?color=%23A855F7" width="28" height="28" alt="Portfolio"/></a>&nbsp;&nbsp;
-<a href="mailto:shashanksingh1709@gmail.com"><img src="https://cdn.simpleicons.org/gmail/D14836" width="28" height="28" alt="Gmail"/></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/u/Shashank17singh/"><img src="https://cdn.simpleicons.org/leetcode/FFA116" width="28" height="28" alt="LeetCode"/></a>
+<a href="https://mail.google.com/mail/u/0/?fs=1&to=shashanksingh1709@gmail.com&tf=cm"><img src="https://cdn.simpleicons.org/gmail/D14836" width="28" height="28" alt="Gmail"/></a>&nbsp;&nbsp;
 
 <br/>
 <br/>
