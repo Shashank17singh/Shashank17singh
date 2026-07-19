@@ -99,7 +99,7 @@ A C++17 packet analyzer that reads PCAP captures, reconstructs TCP/UDP flows, cl
 
 #### [🏠 Home Price Suite](https://github.com/Shashank17singh/Home-Prices-API)
 
-A full-stack ML ecosystem predicting home prices with a production REST API (Flask+Nginx) and a standalone Tkinter desktop GUI — automated via GitHub Actions CI/CD to AWS EC2. [**Live Demo**](https://home-prices-api.duckdns.org)
+A full-stack ML ecosystem predicting home prices with a production REST API (Flask+Nginx) — automated via GitHub Actions CI/CD to AWS EC2. [**Live Demo**](https://home-prices-api.duckdns.org)
 
 <img src="https://skillicons.dev/icons?i=py,flask,nginx,docker,aws,githubactions" height="24" alt="tech"/>&nbsp;<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="24" alt="scikit-learn"/>
 
