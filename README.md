@@ -30,7 +30,7 @@ B.Tech CSE (AI) Student, University of Lucknow | Actively Seeking Internships</h
 ### 💻 Featured Projects
 
 #### [🧠 Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
-**Engineered a high-performance vector database from scratch in C++**, optimizing search via HNSW and KD-Tree index structures against cosine, Euclidean, and Manhattan metrics. Architected a full local RAG pipeline via Ollama by chunking documents into overlapping 250-word segments, generating 768D embeddings, and retrieving optimized context for local Llama 3.2 inference.
+**Engineered a high-performance vector database from scratch in C++**, optimizing search via HNSW and KD-Tree index structures against cosine, Euclidean, and Manhattan metrics. Architected a full local RAG pipeline via Ollama by chunking documents into overlapping 250-word segments, generating 768D embeddings, and retrieving optimized context for local Llama 3.2 (1B) inference.
 
 #### [🧑‍💼 AI Resume Screener](https://github.com/Shashank17singh/ai-resume-screener)
 **Built an LLM-powered pipeline that parses job descriptions and batches of resumes (PDF/DOCX)** into fixed Pydantic schemas via Groq, then scores each candidate against the role to produce a ranked shortlist with matching and missing skills. Hardened the batch pipeline with retry/exponential-backoff on LLM calls, file-hash-based caching to skip redundant re-parsing, and per-file error isolation. [**Live Demo**](https://resume-parsers.streamlit.app/)
