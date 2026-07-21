@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="302" height="56" viewBox="0 0 302 56">
-<rect x="0" y="0" width="302" height="56" rx="8" fill="#1a1a2e"/>
-<g transform="translate(18,15.0) scale(1.0833)" fill="none" stroke="#14B8A6" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-<path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M14 2v6h6"/><path d="m9 15 2 2 4-4"/>
-</g>
-<text x="72" y="35.0" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="20" font-weight="bold" letter-spacing="1.5" fill="#ffffff">AI RESUME SCREENER</text>
-</svg>
