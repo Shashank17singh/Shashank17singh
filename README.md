@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=140&text=Shashank%20Singh&fontSize=34&fontColor=A855F7&fontAlignY=35&fontFamily=Trebuchet%20MS&animation=fadeIn" width="100%" alt="header"/>
 
-<h3 align="center">Systems Engineering & Machine Learning Operationalization (MLOps) <br/> Final-Year B.Tech CSE (AI) Candidate | Actively Seeking Opportunities</h3>
+<h3 align="center">Systems Engineering & Machine Learning Operationalization (MLOps) <br/> Final-Year B.Tech CSE (AI) Student | Actively Seeking Opportunities</h3>
 
 <br/>
 
