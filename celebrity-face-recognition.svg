@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="507" height="56" viewBox="0 0 507 56">
-<rect x="0" y="0" width="507" height="56" rx="8" fill="#1a1a2e"/>
-<g transform="translate(18,15.0) scale(1.0833)" fill="none" stroke="#EC4899" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-<path d="M3 7V5a2 2 0 0 1 2-2h2"/><path d="M17 3h2a2 2 0 0 1 2 2v2"/><path d="M21 17v2a2 2 0 0 1-2 2h-2"/><path d="M7 21H5a2 2 0 0 1-2-2v-2"/><circle cx="9" cy="10" r="0.6" fill="#EC4899"/><circle cx="15" cy="10" r="0.6" fill="#EC4899"/><path d="M9 15c.6 1 1.6 1.5 3 1.5s2.4-.5 3-1.5"/>
-</g>
-<text x="72" y="35.0" font-family="Verdana, Geneva, DejaVu Sans, sans-serif" font-size="20" font-weight="bold" letter-spacing="1.5" fill="#ffffff">CELEBRITY FACE RECOGNITION</text>
-</svg>
