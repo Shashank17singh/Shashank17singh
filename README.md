@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:2d1b4e&height=140&text=Shashank%20Singh&fontSize=34&fontColor=A855F7&fontAlignY=35&fontFamily=Trebuchet%20MS&animation=fadeIn" width="100%" alt="header"/>
 
-<h3 align="center">Building High-Performance C++ systems & RAG Pipelines | Final Year 
-B.Tech CSE (AI) Student, University of Lucknow | Actively Seeking Internships</h3>
+<h3 align="center">Systems Engineering & Machine Learning Operationalization (MLOps) <br/> Final-Year B.Tech CSE (AI) Candidate | Actively Seeking Opportunities</h3>
 
 <br/>
 
@@ -30,13 +29,13 @@ B.Tech CSE (AI) Student, University of Lucknow | Actively Seeking Internships</h
 ### 💻 Featured Projects
 
 #### [🧠 Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
-**Engineered a high-performance vector database from scratch in C++**, optimizing search via HNSW and KD-Tree index structures against cosine, Euclidean, and Manhattan metrics. Architected a full local RAG pipeline via Ollama by chunking documents into overlapping 250-word segments, generating 768D embeddings, and retrieving optimized context for local Llama 3.2 (1B) inference.
+**Engineered a high-performance vector database in modern C++**, implementing HNSW, KD-Tree, and Brute-Force search algorithms across diverse distance metrics with an integrated, automated benchmarking suite. Seamlessly integrated a localized RAG pipeline leveraging Ollama, featuring sophisticated document chunking, nomic-embed-text embeddings, and context retrieval optimized for Llama 3.2 (1B) inference.
 
 #### [🧑‍💼 AI Resume Screener](https://github.com/Shashank17singh/ai-resume-screener)
-**Built an LLM-powered pipeline that parses job descriptions and batches of resumes (PDF/DOCX)** into fixed Pydantic schemas via Groq, then scores each candidate against the role to produce a ranked shortlist with matching and missing skills. Hardened the batch pipeline with retry/exponential-backoff on LLM calls, file-hash-based caching to skip redundant re-parsing, and per-file error isolation. [**Live Demo**](https://resume-parsers.streamlit.app/)
+**Engineered a sophisticated LLM-driven pipeline utilizing Streamlit and the Groq API** to parse complex resumes into highly structured Pydantic schemas for automated, intelligent candidate ranking. Built for enterprise resilience, featuring exponential retry-with-backoff for API interactions, hash-based document caching, and isolated error handling, culminating in an intuitive UI delineating skill alignments. [**Live Demo**](https://resume-parsers.streamlit.app/)
 
 #### [🏠 Home Price Suite](https://github.com/Shashank17singh/Home-Prices-API)
-**Deployed an end-to-end ML pipeline for predicting home prices**, serving a Scikit-learn regression model (trained via K-Fold CV) through a production-ready REST API. Automated CI/CD pipelines via GitHub Actions to deploy the application on AWS EC2 using Docker and an Nginx reverse proxy. [**Live Demo**](https://home-prices-api.duckdns.org)
+**Architected an end-to-end machine learning ecosystem**, delivering a production-grade web application complete with a Flask REST API, Nginx reverse proxy, and a responsive frontend. The core inference engine utilizes a Scikit-learn Linear Regression model, rigorously optimized through advanced feature engineering, outlier mitigation, and K-Fold cross-validation techniques. [**Live Demo**](https://home-prices-api.duckdns.org)
 
 
 <div align="center">
