@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://codolio.com/profile/Shashank17singh"><img src="https://img.shields.io/badge/Codolio-07080c?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codolio"/></a>
-  <a href="https://linkedin.com/in/shashank17singh"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="28" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/shashank17singh"><img src="https://api.iconify.design/simple-icons:linkedin.svg?color=%230A66C2" width="28" height="28" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="https://shashank17singh.github.io/"><img src="https://api.iconify.design/simple-icons:googlechrome.svg?color=%23A855F7" width="28" height="28" alt="Portfolio"/></a>&nbsp;&nbsp;
 <a href="https://mail.google.com/mail/u/0/?fs=1&to=shashanksingh1709@gmail.com&tf=cm"><img src="https://cdn.simpleicons.org/gmail/D14836" width="28" height="28" alt="Gmail"/></a>&nbsp;&nbsp;
 
@@ -18,25 +18,36 @@
 
 ---
 
-###  Technical Skills
+### Technical Skills
 
 **Languages**: Python, C++, SQL, HTML/CSS, JavaScript  
-**AI/ML & GenAI**: Scikit-learn, PyTorch, OpenCV, MediaPipe, RAG, Ollama, Groq, Vector DBs  
-**Frameworks & Tools**: Flask, FastAPI, Streamlit, Pydantic, Pandas, NumPy, Docker, Nginx, AWS, GitHub Actions, Git  
+**AI/ML & GenAI**: Scikit-learn, PyTorch, OpenCV, MediaPipe, RAG, Ollama, Groq, Vector DBs, LangChain, HuggingFace, ChromaDB  
+**Frameworks & Tools**: Flask, FastAPI, Streamlit, Pydantic, Pandas, NumPy, Docker, Nginx, AWS, GitHub Actions, Git
 
 ---
 
-###  Featured Projects
+### Featured Projects
+
 
 #### [Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
+
 **Engineered a high-performance vector database in modern C++**, implementing HNSW, KD-Tree, and Brute-Force search algorithms across diverse distance metrics with an integrated, automated benchmarking suite. Seamlessly integrated a localized RAG pipeline leveraging Ollama, featuring sophisticated document chunking, nomic-embed-text embeddings, and context retrieval optimized for Llama 3.2 (1B) inference.
 
+#### [HireMeAI — AI Resume Parser & Chatbot](https://github.com/Shashank17singh/HireMeAI)
+
+**Engineered a highly intelligent FastAPI backend** that parses PDF resumes into structured Pydantic schemas and deploys an interactive AI chatbot representing the candidate. Grounded entirely in the actual resume content to prevent hallucination, utilizing Groq's high-speed inference engine to deliver fact-bound responses.
+
+#### [YoutubeScrapper — Multi-Playlist RAG](https://github.com/Shashank17singh/YoutubeScrapper)
+
+**Engineered a highly advanced Retrieval-Augmented Generation (RAG) system** capable of analyzing vast YouTube playlists to extract grounded answers linked to precise video timestamps. Features custom BAAI/bge-m3 embeddings for Hinglish queries, an optimized Qdrant vector database, and fault-tolerant asynchronous batched video transcription utilizing Faster-Whisper.
+
 #### [AI Resume Screener](https://github.com/Shashank17singh/ai-resume-screener)
+
 **Engineered a sophisticated LLM-driven pipeline utilizing Streamlit and the Groq API** to parse complex resumes into highly structured Pydantic schemas for automated, intelligent candidate ranking. Built for enterprise resilience, featuring exponential retry-with-backoff for API interactions, hash-based document caching, and isolated error handling, culminating in an intuitive UI delineating skill alignments. [**Live Demo**](https://resume-parsers.streamlit.app/)
 
 #### [Home Price Suite](https://github.com/Shashank17singh/Home-Prices-API)
-**Architected an end-to-end machine learning ecosystem**, delivering a production-grade web application complete with a Flask REST API, Nginx reverse proxy, and a responsive frontend. The core inference engine utilizes a Scikit-learn Linear Regression model, rigorously optimized through advanced feature engineering, outlier mitigation, and K-Fold cross-validation techniques. [**Live Demo**](https://home-prices-api.duckdns.org)
 
+**Architected an end-to-end machine learning ecosystem**, delivering a production-grade web application complete with a Flask REST API, Nginx reverse proxy, and a responsive frontend. The core inference engine utilizes a Scikit-learn Linear Regression model, rigorously optimized through advanced feature engineering, outlier mitigation, and K-Fold cross-validation techniques. [**Live Demo**](https://home-prices-api.duckdns.org)
 
 <div align="center">
 
