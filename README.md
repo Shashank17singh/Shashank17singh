@@ -18,7 +18,7 @@
 
 ---
 
-### 🚀 Technical Skills
+###  Technical Skills
 
 **Languages**: Python, C++, SQL, HTML/CSS, JavaScript  
 **AI/ML & GenAI**: Scikit-learn, PyTorch, OpenCV, MediaPipe, RAG, Ollama, Groq, Vector DBs  
@@ -26,15 +26,15 @@
 
 ---
 
-### 💻 Featured Projects
+###  Featured Projects
 
-#### [🧠 Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
+#### [ Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
 **Engineered a high-performance vector database in modern C++**, implementing HNSW, KD-Tree, and Brute-Force search algorithms across diverse distance metrics with an integrated, automated benchmarking suite. Seamlessly integrated a localized RAG pipeline leveraging Ollama, featuring sophisticated document chunking, nomic-embed-text embeddings, and context retrieval optimized for Llama 3.2 (1B) inference.
 
-#### [🧑‍💼 AI Resume Screener](https://github.com/Shashank17singh/ai-resume-screener)
+#### [‍ AI Resume Screener](https://github.com/Shashank17singh/ai-resume-screener)
 **Engineered a sophisticated LLM-driven pipeline utilizing Streamlit and the Groq API** to parse complex resumes into highly structured Pydantic schemas for automated, intelligent candidate ranking. Built for enterprise resilience, featuring exponential retry-with-backoff for API interactions, hash-based document caching, and isolated error handling, culminating in an intuitive UI delineating skill alignments. [**Live Demo**](https://resume-parsers.streamlit.app/)
 
-#### [🏠 Home Price Suite](https://github.com/Shashank17singh/Home-Prices-API)
+#### [ Home Price Suite](https://github.com/Shashank17singh/Home-Prices-API)
 **Architected an end-to-end machine learning ecosystem**, delivering a production-grade web application complete with a Flask REST API, Nginx reverse proxy, and a responsive frontend. The core inference engine utilizes a Scikit-learn Linear Regression model, rigorously optimized through advanced feature engineering, outlier mitigation, and K-Fold cross-validation techniques. [**Live Demo**](https://home-prices-api.duckdns.org)
 
 
