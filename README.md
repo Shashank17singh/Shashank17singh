@@ -28,9 +28,6 @@
 
 ###  Featured Projects
 
-#### [YoutubeScrapper — Multi-Playlist RAG](https://github.com/Shashank17singh/YoutubeScrapper)
-**Engineered a highly advanced Retrieval-Augmented Generation (RAG) system** capable of analyzing vast YouTube playlists to extract grounded answers linked to precise video timestamps. Features custom BAAI/bge-m3 embeddings for Hinglish queries, an optimized Qdrant vector database, and fault-tolerant asynchronous batched video ingestion utilizing Faster-Whisper.
-
 #### [Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
 **Engineered a high-performance vector database in modern C++**, implementing HNSW, KD-Tree, and Brute-Force search algorithms across diverse distance metrics with an integrated, automated benchmarking suite. Seamlessly integrated a localized RAG pipeline leveraging Ollama, featuring sophisticated document chunking, nomic-embed-text embeddings, and context retrieval optimized for Llama 3.2 (1B) inference.
 
