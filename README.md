@@ -33,11 +33,11 @@
 
 **Engineered a high-performance vector database in modern C++**, implementing HNSW, KD-Tree, and Brute-Force search algorithms across diverse distance metrics with an integrated, automated benchmarking suite. Seamlessly integrated a localized RAG pipeline leveraging Ollama, featuring sophisticated document chunking, nomic-embed-text embeddings, and context retrieval optimized for Llama 3.2 (1B) inference.
 
-#### [HireMeAI — AI Resume Parser & Chatbot](https://github.com/Shashank17singh/HireMeAI)
+#### [HireMeAI - AI Resume Parser & Chatbot](https://github.com/Shashank17singh/HireMeAI)
 
 **Engineered a highly intelligent FastAPI backend** that parses PDF resumes into structured Pydantic schemas and deploys an interactive AI chatbot representing the candidate. Grounded entirely in the actual resume content to prevent hallucination, utilizing Groq's high-speed inference engine to deliver fact-bound responses.
 
-#### [YoutubeScrapper — Multi-Playlist RAG](https://github.com/Shashank17singh/YoutubeScrapper)
+#### [YoutubeScrapper - Multi-Playlist RAG](https://github.com/Shashank17singh/YoutubeScrapper)
 
 **Engineered a highly advanced Retrieval-Augmented Generation (RAG) system** capable of analyzing vast YouTube playlists to extract grounded answers linked to precise video timestamps. Features custom BAAI/bge-m3 embeddings for Hinglish queries, an optimized Qdrant vector database, and fault-tolerant asynchronous batched video transcription utilizing Faster-Whisper.
 
