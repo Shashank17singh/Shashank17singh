@@ -35,7 +35,7 @@
 
 #### [YoutubeScrapper - Multi-Playlist RAG](https://github.com/Shashank17singh/YoutubeScrapper)
 
-**Engineered a highly advanced Retrieval-Augmented Generation (RAG) system** capable of analyzing vast YouTube playlists to extract grounded answers linked to precise video timestamps. Features custom BAAI/bge-m3 embeddings for Hinglish queries, an optimized Qdrant vector database, and fault-tolerant asynchronous batched video transcription utilizing Faster-Whisper.
+**Engineered a highly advanced Retrieval-Augmented Generation (RAG) system** capable of analyzing vast YouTube playlists to extract grounded answers linked to precise video timestamps. Features custom BAAI/bge-m3 embeddings for Hinglish queries, an optimized Qdrant vector database, and fault-tolerant asynchronous batched video transcription utilizing Faster-Whisper. [**Live Demo**](https://youtubescrapper-mb60.onrender.com/)
 
 #### [Home Price Suite](https://github.com/Shashank17singh/Home-Prices-API)
 
