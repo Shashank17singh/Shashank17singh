@@ -20,26 +20,27 @@
 
 ### Technical Skills
 
-**Languages**: Python, C++, SQL, HTML/CSS, JavaScript  
-**AI/ML & GenAI**: Scikit-learn, PyTorch, OpenCV, MediaPipe, RAG, Ollama, Groq, Vector DBs, LangChain, HuggingFace, ChromaDB  
-**Frameworks & Tools**: Flask, FastAPI, Streamlit, Pydantic, Pandas, NumPy, Docker, Nginx, AWS, GitHub Actions, Git
+**Languages**: Python, C++  
+**Cybersecurity & Networking**: Network Protocol Analysis (TCP/UDP/TLS), Packet Parsing (PCAP), Cryptography (RSA-2048, AES-256-GCM), Multithreading  
+**AI/ML**: HNSW, KD-Tree, RAG, Ollama, RLHF, Machine Learning Algorithms  
+**Frameworks & Tools**: FastAPI, SQLAlchemy, Pytest, CI/CD, NumPy, Pandas
 
 ---
 
 ### Featured Projects
 
 
+#### [DPI Engine](https://github.com/Shashank17singh/DPI-Engine)
+
+**Built a C++17 deep packet inspection engine, following a project-based systems programming curriculum**, that analyzes PCAP captures, reconstructs TCP/UDP flows, and classifies application-layer traffic via TLS SNI and HTTP Host inspection. Studied and rebuilt the multi-threaded load-balancer and fast-path architecture for parallel packet processing, with rule-based blocking by application, IP, and domain.
+
 #### [Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
 
-**Engineered a high-performance vector database in modern C++**, implementing HNSW, KD-Tree, and Brute-Force search algorithms across diverse distance metrics with an integrated, automated benchmarking suite. Seamlessly integrated a localized RAG pipeline leveraging Ollama, featuring sophisticated document chunking, nomic-embed-text embeddings, and context retrieval optimized for Llama 3.2 (1B) inference.
+**Built a C++ vector database, following a project-based curriculum**, implementing HNSW, KD-Tree, and Brute-Force search across distance metrics with an automated benchmarking suite. Studied and rebuilt a local RAG pipeline via Ollama with document chunking and context retrieval, exposed through a REST API with a 2D PCA visualization frontend.
 
-#### [YoutubeScrapper - Multi-Playlist RAG](https://github.com/Shashank17singh/YoutubeScrapper)
+#### [UPI-Mesh](https://github.com/Shashank17singh/UPI-Mesh)
 
-**Engineered a highly advanced Retrieval-Augmented Generation (RAG) system** capable of analyzing vast YouTube playlists to extract grounded answers linked to precise video timestamps. Features custom BAAI/bge-m3 embeddings for Hinglish queries, an optimized Qdrant vector database, and fault-tolerant asynchronous batched video transcription utilizing Faster-Whisper. [**Live Demo**](https://youtubescrapper-mb60.onrender.com/)
-
-#### [Home Price Suite](https://github.com/Shashank17singh/Home-Prices-API)
-
-**Architected an end-to-end machine learning ecosystem**, delivering a production-grade web application complete with a Flask REST API, Nginx reverse proxy, and a responsive frontend. The core inference engine utilizes a Scikit-learn Linear Regression model, rigorously optimized through advanced feature engineering, outlier mitigation, and K-Fold cross-validation techniques. [**Live Demo**](https://home-prices-api.duckdns.org)
+**Ported an offline-first payment backend from Java/Spring Boot to Python/FastAPI**, reimplementing hybrid RSA-2048/AES-256-GCM cryptography for payments settled over a simulated Bluetooth mesh. Reimplemented ciphertext-hash idempotency to prevent duplicate settlement and optimistic-locking ledger updates in SQLAlchemy; validated the port with a 27-test pytest suite and CI across Python 3.10-3.12. [**Live Demo**](https://upi-mesh.duckdns.org/)
 
 <div align="center">
 
