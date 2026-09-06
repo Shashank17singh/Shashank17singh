@@ -32,11 +32,11 @@
 
 #### [DPI Engine](https://github.com/Shashank17singh/DPI-Engine)
 
-**Built a C++17 deep packet inspection engine, following a project-based systems programming curriculum**, that analyzes PCAP captures, reconstructs TCP/UDP flows, and classifies application-layer traffic via TLS SNI and HTTP Host inspection. Studied and rebuilt the multi-threaded load-balancer and fast-path architecture for parallel packet processing, with rule-based blocking by application, IP, and domain. [**View Output**](https://drive.google.com/file/d/10SGNof9nAoBBDV3tLYXItznoQME83Urs/view?usp=sharing)
+**Developed a C++17 deep packet inspection engine as part of a project-based systems programming curriculum**. It analyzes PCAP captures, reconstructs TCP/UDP flows, and classifies application-layer traffic via TLS SNI and HTTP Host inspection. Studied and rebuilt the multi-threaded load-balancer and fast-path architecture for parallel packet processing, with rule-based blocking by application, IP, and domain. [**View Output**](https://drive.google.com/file/d/10SGNof9nAoBBDV3tLYXItznoQME83Urs/view?usp=sharing)
 
 #### [Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
 
-**Built a C++ vector database, following a project-based curriculum**, implementing HNSW, KD-Tree, and Brute-Force search across distance metrics with an automated benchmarking suite. Studied and rebuilt a local RAG pipeline via Ollama with document chunking and context retrieval, exposed through a REST API with a 2D PCA visualization frontend. [**View Architecture**](https://drive.google.com/file/d/1Girgrfgo7ZIKBKfR50Lx9Uw5mkTW6ml0/view?usp=sharing)
+**Developed a C++ vector database as part of a project-based systems programming curriculum**. It implements HNSW, KD-Tree, and Brute-Force search across distance metrics with an automated benchmarking suite. Studied and rebuilt a local RAG pipeline via Ollama with document chunking and context retrieval, exposed through a REST API with a 2D PCA visualization frontend. [**View Architecture**](https://drive.google.com/file/d/1Girgrfgo7ZIKBKfR50Lx9Uw5mkTW6ml0/view?usp=sharing)
 
 #### [UPI-Mesh](https://github.com/Shashank17singh/UPI-Mesh)
 
