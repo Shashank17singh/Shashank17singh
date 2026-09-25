@@ -20,10 +20,11 @@
 
 ### Technical Skills
 
-**Languages**: Python, C++  
-**Cybersecurity & Networking**: Network Protocol Analysis (TCP/UDP/TLS), Packet Parsing (PCAP), Cryptography (RSA-2048, AES-256-GCM), Multithreading  
-**AI/ML**: HNSW, KD-Tree, RAG, Ollama, RLHF, Machine Learning Algorithms  
-**Frameworks & Tools**: FastAPI, SQLAlchemy, Pytest, CI/CD, NumPy, Pandas
+**Languages**: Python, C++, SQL  
+**Libraries & Frameworks**: FastAPI, SQLAlchemy, Streamlit, Pytest, Pandas, NumPy, Scikit-learn  
+**AI & Machine Learning**: Vector Databases (HNSW, KD-Tree), RAG, Ollama, Machine Learning Algorithms  
+**Cybersecurity & Networking**: Network Protocol Analysis (TCP/UDP/TLS), Packet Parsing (PCAP), Cryptography (RSA/AES), Zero-Trust  
+**Tools & Concepts**: Docker, Git, AWS, CI/CD, Multithreading
 
 ---
 
