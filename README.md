@@ -33,15 +33,15 @@
 
 #### [DPI Engine](https://github.com/Shashank17singh/DPI-Engine)
 
-**Designed and implemented a C++17 deep packet inspection engine**. It analyzes PCAP captures, reconstructs TCP/UDP flows, and classifies application-layer traffic via TLS SNI and HTTP Host inspection. Implemented the multi-threaded load-balancer and fast-path architecture for parallel packet processing, with rule-based blocking by application, IP, and domain. [**View Output**](https://drive.google.com/file/d/10SGNof9nAoBBDV3tLYXItznoQME83Urs/view?usp=sharing)
+**Built a C++17 Deep Packet Inspection engine** to reconstruct TCP/UDP data streams. Engineered a lock-free multi-threaded load-balancer and fast-path architecture for parallel processing, achieving gigabit-speed data ingestion without mutex contention. Designed efficient data handling pipelines to classify traffic via TLS SNI and HTTP Host inspection. [**View Output**](https://drive.google.com/file/d/10SGNof9nAoBBDV3tLYXItznoQME83Urs/view?usp=sharing)
 
 #### [Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
 
-**Architected a custom C++ vector database**. It implements HNSW, KD-Tree, and Brute-Force search across distance metrics with an automated benchmarking suite. Integrated a local RAG pipeline via Ollama with document chunking and context retrieval, exposed through a REST API with a 2D PCA visualization frontend. [**View Architecture**](https://drive.google.com/file/d/1Girgrfgo7ZIKBKfR50Lx9Uw5mkTW6ml0/view?usp=sharing)
+**Architected a modular C++ vector database** using CMake, integrating advanced data structures (KD-Trees, HNSW). Designed REST APIs to interface seamlessly with a frontend dashboard. Automated the Ollama cloud GPU environment setup using Python scripts to support the local RAG pipeline and PCA frontend. [**View Architecture**](https://drive.google.com/file/d/1Girgrfgo7ZIKBKfR50Lx9Uw5mkTW6ml0/view?usp=sharing)
 
 #### [UPI-Mesh](https://github.com/Shashank17singh/UPI-Mesh)
 
-**Ported an offline-first payment backend from Java/Spring Boot to Python/FastAPI**, reimplementing hybrid RSA-2048/AES-256-GCM cryptography for payments settled over a simulated Bluetooth mesh. Reimplemented ciphertext-hash idempotency to prevent duplicate settlement and optimistic-locking ledger updates in SQLAlchemy; validated the port with a 27-test pytest suite and CI across Python 3.10-3.12. [**Live Demo**](https://upi-mesh.duckdns.org/)
+**Developed an offline-first Python/FastAPI payment backend**, utilizing SQLite for data integrity and Docker for containerized deployment. Engineered a Zero-Trust authorization pipeline enforcing strict server-side PIN hash validation, and implemented ciphertext-hash idempotency to prevent offline replay attacks. Engineered hybrid RSA-2048/AES-256-GCM encryption for payments settled over a simulated Bluetooth mesh. [**Live Demo**](https://upi-mesh.duckdns.org/)
 
 <div align="center">
 
