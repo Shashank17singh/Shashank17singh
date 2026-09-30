@@ -1,0 +1,5 @@
+# Secrets
+.env
+
+# GitHub README-only repo
+*.bak
