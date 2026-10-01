@@ -15,7 +15,7 @@
 
 ---
 
-### 💻 Technical Expertise
+### Technical Expertise
 
 | Category | Skills |
 |:---|:---|
@@ -27,7 +27,7 @@
 
 ---
 
-### 🚀 Featured Engineering Projects
+### Featured Engineering Projects
 
 #### [DPI Engine](https://github.com/Shashank17singh/DPI-Engine)
 **Built a C++17 Deep Packet Inspection engine** to reconstruct TCP/UDP data streams. Engineered a lock-free multi-threaded load-balancer and fast-path architecture for parallel processing, achieving gigabit-speed data ingestion without mutex contention. Designed efficient data handling pipelines to classify traffic via TLS SNI and HTTP Host inspection. [**View Output**](https://drive.google.com/file/d/10SGNof9nAoBBDV3tLYXItznoQME83Urs/view?usp=sharing)
