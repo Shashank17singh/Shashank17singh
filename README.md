@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3B82F6&height=140&text=Shashank%20Singh&fontSize=36&fontColor=F8FAFC&fontAlignY=38&fontFamily=Inter&animation=fadeIn" width="100%" alt="header"/>
 
-<h3 align="center">High-Performance Systems, Applied AI, & Scalable Backend Infrastructure <br/> Final-Year Computer Science Candidate</h3>
+<h3 align="center">High-Performance Systems, Applied AI, & Scalable Backend Infrastructure <br/> Final-Year Computer Science (AI) Student</h3>
 
 <p align="center">
   <a href="https://codolio.com/profile/Shashank17singh"><img src="https://img.shields.io/badge/Codolio-0F172A?style=for-the-badge&logo=codeforces&logoColor=3B82F6" alt="Codolio"/></a>
@@ -31,15 +31,15 @@
 
 #### [DPI Engine](https://github.com/Shashank17singh/DPI-Engine)
 
-**Built a C++17 Deep Packet Inspection engine** to reconstruct TCP/UDP data streams. Engineered a lock-free multi-threaded load-balancer and fast-path architecture for parallel processing, achieving gigabit-speed data ingestion without mutex contention. Designed efficient data handling pipelines to classify traffic via TLS SNI and HTTP Host inspection. [**View Output**](https://drive.google.com/file/d/10SGNof9nAoBBDV3tLYXItznoQME83Urs/view?usp=sharing)
+**Built a C++17 Deep Packet Inspection engine** to reconstruct TCP/UDP data streams. Designed a lock-free multi-threaded load-balancer and fast-path architecture for parallel processing, achieving gigabit-speed data ingestion without mutex contention. Created efficient data handling pipelines to classify traffic via TLS SNI and HTTP Host inspection. [**View Output**](https://drive.google.com/file/d/10SGNof9nAoBBDV3tLYXItznoQME83Urs/view?usp=sharing)
 
 #### [Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
 
-**Architected a modular C++ vector database** using CMake, integrating advanced data structures (KD-Trees, HNSW). Designed REST APIs to interface seamlessly with a frontend dashboard. Automated the Ollama cloud GPU environment setup using Python scripts to support the local RAG pipeline and PCA frontend. [**View Architecture**](https://drive.google.com/file/d/1Girgrfgo7ZIKBKfR50Lx9Uw5mkTW6ml0/view?usp=sharing)
+**Built a modular C++ vector database** using CMake, integrating advanced data structures (KD-Trees, HNSW). Created REST APIs to interface seamlessly with a frontend dashboard. Automated the Ollama cloud GPU environment setup using Python scripts to support the local RAG pipeline and PCA frontend. [**View Architecture**](https://drive.google.com/file/d/1Girgrfgo7ZIKBKfR50Lx9Uw5mkTW6ml0/view?usp=sharing)
 
 #### [UPI-Mesh](https://github.com/Shashank17singh/UPI-Mesh)
 
-**Developed an offline-first Python/FastAPI payment backend**, utilizing SQLite for data integrity and Docker for containerized deployment. Engineered a Zero-Trust authorization pipeline enforcing strict server-side PIN hash validation, and implemented ciphertext-hash idempotency to prevent offline replay attacks. Engineered hybrid RSA-2048/AES-256-GCM encryption for payments settled over a simulated Bluetooth mesh. [**Live Demo**](https://upi-mesh.duckdns.org/)
+**Built an offline-first Python/FastAPI payment backend**, utilizing SQLite for data integrity and Docker for containerized deployment. Implemented a Zero-Trust authorization pipeline enforcing strict server-side PIN hash validation, and added ciphertext-hash idempotency to prevent offline replay attacks. Designed hybrid RSA-2048/AES-256-GCM encryption for payments settled over a simulated Bluetooth mesh. [**Live Demo**](https://upi-mesh.duckdns.org/)
 
 ---
 
