@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3B82F6&height=140&text=Shashank%20Singh&fontSize=36&fontColor=F8FAFC&fontAlignY=38&fontFamily=Inter&animation=fadeIn" width="100%" alt="header"/>
 
-<h3 align="center">Systems Programming & Generative AI <br/> Final-Year B.Tech CSE (AI) Candidate | Actively Seeking Opportunities</h3>
+<h3 align="center">High-Performance Systems, Applied AI, & Scalable Backend Infrastructure <br/> Final-Year Computer Science Candidate</h3>
 
 <p align="center">
   <a href="https://codolio.com/profile/Shashank17singh"><img src="https://img.shields.io/badge/Codolio-0F172A?style=for-the-badge&logo=codeforces&logoColor=3B82F6" alt="Codolio"/></a>
@@ -19,11 +19,11 @@
 
 | Category                       | Skills                                                                    |
 | :----------------------------- | :------------------------------------------------------------------------ |
-| **Languages**                  | Python, C++, SQL                                                          |
-| **Libraries & Frameworks**     | FastAPI, SQLAlchemy, Streamlit, Pytest, Pandas, NumPy, Scikit-learn       |
-| **AI & Machine Learning**      | Vector Databases (HNSW, KD-Tree), RAG, Ollama, ML Algorithms              |
-| **Cybersecurity & Networking** | Protocol Analysis (TCP/UDP/TLS), PCAP, Cryptography (RSA/AES), Zero-Trust |
-| **Tools & Cloud**              | Docker, Git, AWS, CI/CD, Multithreading                                   |
+| **Languages**                  | Python, C++, TypeScript, SQL                                              |
+| **AI & Machine Learning**      | PyTorch, LangChain, Hugging Face, Qdrant, ChromaDB, Scikit-learn, XGBoost |
+| **Systems & Backend**          | C++17, Multithreading, FastAPI, Flask, REST APIs, PostgreSQL, Supabase    |
+| **Architecture & Security**    | Distributed Systems, Microservices, TCP/UDP/TLS, Cryptography (RSA/AES)   |
+| **Cloud & DevOps**             | Docker, AWS, CI/CD, GitHub Actions, Nginx                                 |
 
 ---
 
