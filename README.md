@@ -31,15 +31,15 @@
 
 #### [DPI Engine](https://github.com/Shashank17singh/DPI-Engine)
 
-**Built a C++17 Deep Packet Inspection engine** to reconstruct TCP/UDP data streams. Designed a lock-free multi-threaded load-balancer and fast-path architecture for parallel processing, achieving gigabit-speed data ingestion without mutex contention. Created efficient data handling pipelines to classify traffic via TLS SNI and HTTP Host inspection. [**View Output**](https://drive.google.com/file/d/10SGNof9nAoBBDV3tLYXItznoQME83Urs/view?usp=sharing)
+**Built a C++17 Deep Packet Inspection engine** to reconstruct TCP/UDP data streams. Designed a multi-threaded load-balancer and fast-path architecture that uses consistent hashing to keep each flow on one thread. Created efficient data handling pipelines to classify traffic via TLS SNI and HTTP Host inspection. [**View Output**](https://drive.google.com/file/d/10SGNof9nAoBBDV3tLYXItznoQME83Urs/view?usp=sharing)
 
 #### [Your-Own-AI (VectorDB)](https://github.com/Shashank17singh/Your-Own-AI)
 
-**Built a modular C++ vector database** using CMake, integrating advanced data structures (KD-Trees, HNSW). Created REST APIs to interface seamlessly with a frontend dashboard. Automated the Ollama cloud GPU environment setup using Python scripts to support the local RAG pipeline and PCA frontend. [**View Architecture**](https://drive.google.com/file/d/1Girgrfgo7ZIKBKfR50Lx9Uw5mkTW6ml0/view?usp=sharing)
+**Built a modular C++ vector database** using CMake, with KD-Tree and HNSW indexes. Created REST APIs for a frontend dashboard. Automated the Ollama cloud GPU environment setup using Python scripts to support the local RAG pipeline and PCA frontend. [**View Architecture**](https://drive.google.com/file/d/1Girgrfgo7ZIKBKfR50Lx9Uw5mkTW6ml0/view?usp=sharing)
 
 #### [UPI-Mesh](https://github.com/Shashank17singh/UPI-Mesh)
 
-**Built an offline-first Python/FastAPI payment backend**, utilizing SQLite for data integrity and Docker for containerized deployment. Implemented a Zero-Trust authorization pipeline enforcing strict server-side PIN hash validation, and added ciphertext-hash idempotency to prevent offline replay attacks. Designed hybrid RSA-2048/AES-256-GCM encryption for payments settled over a simulated Bluetooth mesh. [**Live Demo**](https://upi-mesh.duckdns.org/)
+**Built an offline-first Python/FastAPI payment backend**, using SQLite for data integrity and Docker for containerized deployment. Implemented a Zero-Trust authorization pipeline enforcing strict server-side PIN hash validation, and added ciphertext-hash idempotency to prevent offline replay attacks. Designed hybrid RSA-2048/AES-256-GCM encryption for payments settled over a simulated Bluetooth mesh. [**Live Demo**](https://upi-mesh.duckdns.org/)
 
 ---
 
