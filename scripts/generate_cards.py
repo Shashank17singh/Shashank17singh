@@ -113,20 +113,31 @@ def card(width, height, title, body):
 """
 
 
-def stats_card(rows):
+def stats_height(rows):
+    return 70 + len(rows) * 26
+
+
+def languages_height(shares):
+    return 90 + ((len(shares) + 1) // 2) * 26
+
+
+def stats_card(rows, height=0):
+    """Draw the stats, spreading the rows out when the card is taller than they need."""
+    height = max(height, stats_height(rows))
+    gap = (height - 70) / len(rows)
     lines = []
     for index, (label, value) in enumerate(rows):
-        y = 70 + index * 26
+        y = round(70 + index * gap)
         lines.append(
             f'  <text x="24" y="{y}" fill="{MUTED}" font-family="{FONT}" font-size="14">{escape(label)}</text>'
         )
         lines.append(
             f'  <text x="361" y="{y}" fill="{TEXT}" font-family="{FONT}" font-size="14" font-weight="600" text-anchor="end">{value:,}</text>'
         )
-    return card(385, 70 + len(rows) * 26, "GitHub stats", "\n".join(lines))
+    return card(385, height, "GitHub stats", "\n".join(lines))
 
 
-def languages_card(shares):
+def languages_card(shares, height=0):
     bar, x = [], 24.0
     for _, colour, percent in shares:
         width = 337 * percent / sum(share[2] for share in shares)
@@ -144,7 +155,7 @@ def languages_card(shares):
         )
     return card(
         385,
-        90 + ((len(shares) + 1) // 2) * 26,
+        max(height, languages_height(shares)),
         "Most used languages",
         "\n".join(bar + legend),
     )
@@ -207,8 +218,12 @@ def main():
     today = date.today()
     rows, shares, days = collect(os.environ["GITHUB_TOKEN"], today)
     current, longest = streaks(days, today)
-    (output / "stats.svg").write_text(stats_card(rows), encoding="utf-8")
-    (output / "languages.svg").write_text(languages_card(shares), encoding="utf-8")
+    # The two sit side by side in the README, so they share a height.
+    height = max(stats_height(rows), languages_height(shares))
+    (output / "stats.svg").write_text(stats_card(rows, height), encoding="utf-8")
+    (output / "languages.svg").write_text(
+        languages_card(shares, height), encoding="utf-8"
+    )
     (output / "streak.svg").write_text(
         streak_card(sum(days.values()), current, longest), encoding="utf-8"
     )

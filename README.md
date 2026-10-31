@@ -46,7 +46,7 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Shashank17singh/Shashank17singh/output/stats.svg" width="48%" alt="stats"/>
-<img src="https://raw.githubusercontent.com/Shashank17singh/Shashank17singh/output/languages.svg" width="38%" alt="top langs"/>
+<img src="https://raw.githubusercontent.com/Shashank17singh/Shashank17singh/output/languages.svg" width="48%" alt="top langs"/>
 
 <br/>
 
