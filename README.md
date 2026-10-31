@@ -45,11 +45,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-fast.vercel.app/api?username=Shashank17singh&show_icons=true&theme=transparent&hide_border=true&bg_color=0F172A&title_color=3B82F6&icon_color=60A5FA&text_color=F8FAFC&rank_icon=github" width="48%" alt="stats"/>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Shashank17singh&layout=compact&theme=transparent&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC" width="38%" alt="top langs"/>
+<img src="https://raw.githubusercontent.com/Shashank17singh/Shashank17singh/output/stats.svg" width="48%" alt="stats"/>
+<img src="https://raw.githubusercontent.com/Shashank17singh/Shashank17singh/output/languages.svg" width="38%" alt="top langs"/>
 
 <br/>
 
-<img src="https://github-readme-stats-fast.vercel.app/api/streak?username=Shashank17singh&theme=transparent&hide_border=true&bg_color=0F172A&title_color=3B82F6&text_color=F8FAFC&icon_color=60A5FA" width="60%" alt="streak"/>
+<img src="https://raw.githubusercontent.com/Shashank17singh/Shashank17singh/output/streak.svg" width="60%" alt="streak"/>
 
 </div>
