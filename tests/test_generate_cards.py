@@ -90,6 +90,23 @@ def test_numbers_are_grouped_for_reading():
     assert "1,200" in stats_card([("Commits", 1200)])
 
 
+def test_cards_given_the_same_height_are_the_same_size():
+    rows = [("Commits", 1200), ("Followers", 5)]
+    shares = [(f"L{i}", "#111111", 10.0) for i in range(6)]
+
+    stats = ElementTree.fromstring(stats_card(rows, 168))
+    languages = ElementTree.fromstring(languages_card(shares, 168))
+
+    assert stats.attrib["width"] == languages.attrib["width"]
+    assert stats.attrib["height"] == languages.attrib["height"] == "168"
+
+
+def test_a_card_never_shrinks_below_its_content():
+    rows = [("Row", i + 1) for i in range(6)]
+
+    assert ElementTree.fromstring(stats_card(rows, 100)).attrib["height"] == "226"
+
+
 def test_notebooks_do_not_count_towards_languages():
     shares = language_shares(
         [repository(("Jupyter Notebook", "#111111", 900), ("Python", "#222222", 100))]
