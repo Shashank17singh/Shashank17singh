@@ -3,3 +3,9 @@
 
 # GitHub README-only repo
 *.bak
+
+# Local AI assistant configuration
+.agents/
+
+# Editor settings
+.vscode/
