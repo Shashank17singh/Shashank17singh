@@ -1,22 +1,22 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="385" height="174" viewBox="0 0 385 174" role="img" aria-label="Most used languages">
   <rect x="0.5" y="0.5" width="384" height="173" rx="8" fill="#0F172A" stroke="#1E293B"/>
   <text x="24" y="36" fill="#3B82F6" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="17" font-weight="600">Most used languages</text>
-  <rect x="24.00" y="54" width="175.59" height="8" fill="#3572A5"/>
-  <rect x="199.59" y="54" width="80.03" height="8" fill="#3178c6"/>
-  <rect x="279.62" y="54" width="59.57" height="8" fill="#f34b7d"/>
-  <rect x="339.19" y="54" width="14.16" height="8" fill="#e34c26"/>
-  <rect x="353.34" y="54" width="5.40" height="8" fill="#663399"/>
-  <rect x="358.74" y="54" width="2.26" height="8" fill="#f1e05a"/>
+  <rect x="24.00" y="54" width="173.94" height="8" fill="#3572A5"/>
+  <rect x="197.94" y="54" width="87.12" height="8" fill="#3178c6"/>
+  <rect x="285.06" y="54" width="53.95" height="8" fill="#f34b7d"/>
+  <rect x="339.01" y="54" width="14.48" height="8" fill="#e34c26"/>
+  <rect x="353.49" y="54" width="5.10" height="8" fill="#663399"/>
+  <rect x="358.59" y="54" width="2.41" height="8" fill="#f1e05a"/>
   <circle cx="29" cy="85" r="5" fill="#3572A5"/>
-  <text x="40" y="90" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">Python 51.7%</text>
+  <text x="40" y="90" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">Python 51.0%</text>
   <circle cx="199" cy="85" r="5" fill="#3178c6"/>
-  <text x="210" y="90" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">TypeScript 23.6%</text>
+  <text x="210" y="90" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">TypeScript 25.6%</text>
   <circle cx="29" cy="111" r="5" fill="#f34b7d"/>
-  <text x="40" y="116" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">C++ 17.5%</text>
+  <text x="40" y="116" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">C++ 15.8%</text>
   <circle cx="199" cy="111" r="5" fill="#e34c26"/>
   <text x="210" y="116" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">HTML 4.2%</text>
   <circle cx="29" cy="137" r="5" fill="#663399"/>
-  <text x="40" y="142" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">CSS 1.6%</text>
+  <text x="40" y="142" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">CSS 1.5%</text>
   <circle cx="199" cy="137" r="5" fill="#f1e05a"/>
   <text x="210" y="142" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">JavaScript 0.7%</text>
 </svg>
