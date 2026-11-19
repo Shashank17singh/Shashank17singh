@@ -10,7 +10,7 @@
   <circle cx="29" cy="85" r="5" fill="#3572A5"/>
   <text x="40" y="90" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">Python 51.0%</text>
   <circle cx="199" cy="85" r="5" fill="#3178c6"/>
-  <text x="210" y="90" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">TypeScript 25.6%</text>
+  <text x="210" y="90" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">TypeScript 25.5%</text>
   <circle cx="29" cy="111" r="5" fill="#f34b7d"/>
   <text x="40" y="116" fill="#F8FAFC" font-family="'Segoe UI', Ubuntu, Helvetica, Arial, sans-serif" font-size="13">C++ 15.8%</text>
   <circle cx="199" cy="111" r="5" fill="#e34c26"/>
