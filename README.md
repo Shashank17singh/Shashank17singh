@@ -6,16 +6,17 @@ You can find me on my [portfolio](https://shashank17singh.github.io/), [LinkedIn
 
 ---
 
-## Six projects, two of them live
+## Featured projects
 
-| Project | What it does | Built with | Try it |
-| :------ | :----------- | :--------- | :----- |
-| [Hotseat](https://github.com/Shashank17singh/Hotseat) | A spoken mock interview that builds questions from your resume, follows up on your answers and scores each one. | Next.js, TypeScript, Groq, Whisper | [Live](https://hotseat-black-chi.vercel.app/) |
-| [UPI-Mesh](https://github.com/Shashank17singh/UPI-Mesh) | An offline-first payments backend with hybrid RSA-2048 and AES-256-GCM encryption, relayed over a simulated Bluetooth mesh, with ciphertext-hash idempotency against replays. | Python, FastAPI, SQLite, Docker | [Live](https://upi-mesh.duckdns.org/) |
-| [CodeSync](https://github.com/Shashank17singh/CodeSync) | A browser code editor where a whole room types in one file, with live cursors, chat, history, sandboxed runs under gVisor and an online judge. | React, TypeScript, Yjs, Fastify, PostgreSQL, Redis | Source |
-| [DPI Engine](https://github.com/Shashank17singh/DPI-Engine) | A C++17 deep packet inspection engine that rebuilds TCP and UDP flows and classifies traffic by TLS SNI and HTTP Host, keeping each flow on one thread with consistent hashing. | C++17, libpcap, multithreading | [Output](https://drive.google.com/file/d/10SGNof9nAoBBDV3tLYXItznoQME83Urs/view?usp=sharing) |
-| [CampusMind](https://github.com/Shashank17singh/CampusMind) | A college assistant that answers from official documents with citations, and plans study schedules and reminders through agents. | Python, FastAPI, LangGraph, React, PostgreSQL, Qdrant | Source |
-| [Your-Own-AI](https://github.com/Shashank17singh/Your-Own-AI) | A C++ vector database with KD-Tree and HNSW indexes, REST APIs for its dashboard, and a local RAG pipeline on Ollama. | C++, CMake, HNSW, Ollama | [Architecture](https://drive.google.com/file/d/1Girgrfgo7ZIKBKfR50Lx9Uw5mkTW6ml0/view?usp=sharing) |
+| Project | What it does | Built with | Demo / Output |
+| :------ | :----------- | :--------- | :------------ |
+| [Hotseat](https://github.com/Shashank17singh/Hotseat) | A spoken mock interview that builds questions from your resume, follows up on your answers and scores each one. | Next.js, TypeScript, Groq, Whisper | [Live demo](https://hotseat-black-chi.vercel.app/) |
+| [UPI-Mesh](https://github.com/Shashank17singh/UPI-Mesh) | An offline-first payments backend with hybrid RSA-2048 and AES-256-GCM encryption, relayed over a simulated Bluetooth mesh, with ciphertext-hash idempotency against replays. | Python, FastAPI, SQLite, Docker | [Live demo](https://upi-mesh.duckdns.org/) |
+| [TruthLens](https://github.com/Shashank17singh/TruthLens) | A multi-modal AI detection system for visual, acoustic, and text deepfakes with Grad-CAM heatmaps, 2D DCT spectral analysis, and tamper-evident HMAC-SHA256 PDF audit reports. | PyTorch, ONNX Runtime, FastAPI, React, TypeScript | [Live demo](https://truth-lens-two-self.vercel.app/) |
+| [CodeSync](https://github.com/Shashank17singh/CodeSync) | A browser code editor where a whole room types in one file, with live cursors, chat, history, sandboxed runs under gVisor and an online judge. | React, TypeScript, Yjs, Fastify, PostgreSQL, Redis | [View output](https://github.com/Shashank17singh/CodeSync/blob/main/codesync.png) |
+| [DPI Engine](https://github.com/Shashank17singh/DPI-Engine) | A C++17 deep packet inspection engine that rebuilds TCP and UDP flows and classifies traffic by TLS SNI and HTTP Host, keeping each flow on one thread with consistent hashing. | C++17, libpcap, multithreading | [View output](https://github.com/Shashank17singh/DPI-Engine/blob/main/dpi-engine.png) |
+| [CampusMind](https://github.com/Shashank17singh/CampusMind) | A college assistant that answers from official documents with citations, and plans study schedules and reminders through agents. | Python, FastAPI, LangGraph, React, PostgreSQL, Qdrant | [View output](https://github.com/Shashank17singh/CampusMind/blob/main/docs/screenshots/home.png) |
+| [Your-Own-AI](https://github.com/Shashank17singh/Your-Own-AI) | A C++ vector database with KD-Tree and HNSW indexes, REST APIs for its dashboard, and a local RAG pipeline on Ollama. | C++, CMake, HNSW, Ollama | [View output](https://github.com/Shashank17singh/Your-Own-AI/blob/main/Your-Own-AI.png) |
 
 ---
 
