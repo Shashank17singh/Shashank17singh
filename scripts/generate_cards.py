@@ -5,7 +5,7 @@ import os
 import sys
 import urllib.request
 from collections import Counter
-from datetime import date, timedelta
+from datetime import date, datetime, timedelta, timezone
 from html import escape
 from pathlib import Path
 
@@ -215,7 +215,7 @@ def collect(token, today):
 def main():
     output = Path(sys.argv[1] if len(sys.argv) > 1 else "cards")
     output.mkdir(parents=True, exist_ok=True)
-    today = date.today()
+    today = datetime.now(timezone.utc).date()
     rows, shares, days = collect(os.environ["GITHUB_TOKEN"], today)
     current, longest = streaks(days, today)
     # The two sit side by side in the README, so they share a height.
