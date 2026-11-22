@@ -2,7 +2,7 @@
 
 I build C++ engines, Python backends and applied AI tools. Final-year Computer Science (AI) student at the University of Lucknow, open to software engineering and data science roles.
 
-You can find me on my [portfolio](https://shashank17singh.github.io/), [LinkedIn](https://linkedin.com/in/shashank17singh) and [Codolio](https://codolio.com/profile/Shashank17singh), or write to [shashanksingh1709@gmail.com](mailto:shashanksingh1709@gmail.com).
+You can find me on my [portfolio](https://shashank17singh.github.io/), [LinkedIn](https://linkedin.com/in/shashank17singh) and [Codolio](https://codolio.com/profile/Shashank17singh), or write to [shashanksingh1709@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&to=shashanksingh1709@gmail.com).
 
 ---
 
